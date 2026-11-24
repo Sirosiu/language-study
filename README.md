@@ -4,7 +4,7 @@ A responsive language course ready for GitHub Pages. Use it on a phone, tablet o
 
 The course contains Arabic, Danish, Dutch, English, Finnish, French, German, Georgian, Italian, Japanese, Korean, Mandarin Chinese, Russian, Spanish and Turkish. Each language keeps its alphabet or script, pronunciation, word formation, grammar, translated practice, vocabulary and reading together.
 
-Included: **15,000 practice questions, 15,000 vocabulary entries, 634 recorded MP3 tracks, 15 PDF books and 15 complete Obsidian downloads**. Arabic includes MSA, Egyptian, Levantine and Gulf sections. Question types include gap filling, multiple choice, editing, sentence ordering, translation and explanation.
+Included: **15,000 practice questions, 15,000 vocabulary entries, 1,116 recorded MP3 files (including 482 individual letter recordings), 15 PDF books and 15 complete Obsidian downloads**. Arabic includes MSA, Egyptian, Levantine and Gulf sections. Question types include gap filling, multiple choice, editing, sentence ordering, translation and explanation.
 
 ## Publish on GitHub Pages
 
@@ -67,14 +67,13 @@ Open [http://127.0.0.1:4173/language-study/](http://127.0.0.1:4173/language-stud
 
 ## Study on multiple devices
 
-Progress is local to **this browser and website address**. There is no login, server or automatic synchronization.
+Sign in in **My notebook** to save written answers, private Markdown notes, added questions and dictionary words through Supabase. Use the same account in the website and the mobile-compatible Obsidian plugin. Each device keeps its own authentication session outside the Syncthing vault.
 
-- In **Study tools**, choose **Export progress** to make a JSON backup.
-- Transfer that file to another device and choose **Import progress** there.
-- Imports keep existing saved words and other question marks. Incoming marks take priority for questions present in both backups.
-- Back up before clearing browser data. Private browsing, storage restrictions or changing the website URL can make local progress unavailable.
+The public course stays available without signing in. Private data is protected by owner-only Supabase access rules and a revision-checked save function. Offline edits queue locally; simultaneous edits keep both versions for you to resolve.
 
-This avoids accounts, cloud bills and credentials. Real automatic synchronization would require a separate storage and authentication service.
+See [docs/sync-setup.md](docs/sync-setup.md) for account, vault, privacy and conflict instructions. The configured project uses a **public publishable key**, not a service-role credential. Apply `supabase/migrations/202611240001_language_study.sql` once to prepare its private table and sync function.
+
+Existing signed-out question marks and course word lists still use browser storage. Study tools supports manual export/import and can copy the current language’s local marks into your signed-in account. Existing account records take priority.
 
 ## Offline study and audio
 
@@ -82,7 +81,7 @@ Open **Study tools → Save this language offline** while online. It saves that 
 
 The website can be installed using a supported browser’s **Install** or **Add to Home Screen** action. On iPhone/iPad, open it in Safari and use **Share → Add to Home Screen**. Installation alone does not save every language; use the offline control too.
 
-The MP3 tracks are synthetic speech. They cover scripts, phrases, rule examples, reading and vocabulary groups. Individual human dictionary recordings are streamed from Wikimedia and require internet. Other sentence playback uses a suitable voice installed on the device, when available. The English model control selects a device voice; a recorded UK reference is also included.
+The MP3 tracks are synthetic speech. The Words page also searches full available Wiktionary entries online; coverage varies by language. They cover scripts, phrases, rule examples, reading and vocabulary groups. Individual human dictionary recordings are streamed from Wikimedia and require internet. Other sentence playback uses a suitable voice installed on the device, when available. Every script reference has an independently playable recording. The English model selects US or UK letter recordings and a device voice for other speech. Mandarin buttons demonstrate labelled pinyin syllables and tone contrasts.
 
 Browsers can evict saved files when space is low. After a website update, old offline caches are cleared and languages may need to be saved again; progress stays in browser storage. Export a backup regularly. PDF and Obsidian downloads provide independent copies.
 
@@ -95,7 +94,13 @@ Each Obsidian ZIP contains one main language note, a Start Here note, source att
 ## Edit and redeploy
 
 - `web/index.html`, `web/app.js`, `web/style.css`: interface.
-- `web/progress.js`: validation and merge rules for progress backups.
+- `web/progress.js`: validation and merge rules for legacy progress backups.
+- `web/cloud.js`, `web/cloud-config.json`: account, private notebook and question UI with public Supabase connection settings.
+- `web/dictionary.js`: live Wiktionary lookup and safe definition rendering.
+- `shared/`: common record model, offline ledger, revision/conflict handling and Markdown round trip.
+- `obsidian-plugin/`: mobile-compatible vault integration, per-device login and private study editor.
+- `supabase/migrations/`: owner-only storage and compare-and-swap save RPC.
+- `scripts/package-notes.mjs`: refreshes Obsidian ZIPs with individual letter audio.
 - `web/data/<code>.json`: the 15 course datasets.
 - `web/Audio/`, `web/Books/`, `web/downloads/`: recordings and downloads.
 - `web/sw.js`, `web/manifest.webmanifest`: offline and installation support.
@@ -118,7 +123,7 @@ npm test
 
 Linux CI/browser machines may need Playwright’s OS dependencies; use its documented `install --with-deps` command there. The browser suite checks Chromium, Firefox and WebKit using a repository subpath, including phone/tablet widths, question interactions, downloads, progress transfer, race handling, retry and offline audio ranges.
 
-The deploy workflow runs build, asset validation and progress unit tests. Browser regression checks are available locally. See [docs/VERIFICATION.md](docs/VERIFICATION.md) for the release checks performed.
+The deploy workflow runs build, asset validation and model, queue, conflict and Obsidian unit tests. The local browser suite also checks individual letter playback, dictionary sanitization, sign-in, draft restoration and private sync between two mocked devices. Browser regression checks are available locally. See [docs/VERIFICATION.md](docs/VERIFICATION.md) for the release checks performed.
 
 ## Sources and content limits
 
@@ -127,6 +132,3 @@ Sentence models come from Tatoeba through OPUS; dictionary material comes from W
 The practice bank reuses sentence models across question types. It is not 1,000 unrelated grammar topics per language. The vocabulary bank is a useful dictionary selection, not a certified frequency ranking. Community examples, automatic readings and synthetic pronunciation have not received exhaustive native-teacher review. Use the model explanations with the source references and real conversations.
 
 The MIT license in this repository covers the website software only. Third-party text, recordings, fonts and compiled course materials retain their own terms. See [CONTENT-LICENSES.md](CONTENT-LICENSES.md) and [web/sources.md](web/sources.md).
-# language-study
-# language-study
-# language-study

@@ -1,0 +1,10 @@
+{
+  "id": "sirosiu-language-study",
+  "name": "Sirosiu Language Study",
+  "version": "1.0.0",
+  "minAppVersion": "1.7.0",
+  "description": "Sync private language notebooks, written answers, added questions and saved words with your Language Study website.",
+  "author": "Sirosiu",
+  "authorUrl": "https://github.com/Sirosiu/language-study",
+  "isDesktopOnly": false
+}

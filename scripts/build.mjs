@@ -2,6 +2,8 @@ import { cp, mkdir, readFile, readdir, rm, stat, writeFile } from 'node:fs/promi
 import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import { build } from 'esbuild-wasm';
+import { unzipSync, zipSync, strToU8 } from 'fflate';
 const root = fileURLToPath(new URL('../', import.meta.url));
 const out = path.join(root, 'dist');
 await mkdir(out, { recursive: true });
@@ -23,11 +25,21 @@ async function prune(directory) {
   }
 }
 await prune(out);
+await build({entryPoints:[path.join(root,'web/cloud.js'),path.join(root,'web/dictionary.js')],outdir:out,bundle:true,format:'esm',platform:'browser',target:'es2022',minify:true,legalComments:'eof'});
+const pluginBuild=await build({entryPoints:[path.join(root,'obsidian-plugin/main.js')],bundle:true,format:'cjs',platform:'browser',target:'es2022',external:['obsidian'],write:false,footer:{js:'module.exports = module.exports.default;'},legalComments:'eof'});
+const pluginFiles={};
+for(const file of ['manifest.json','styles.css'])pluginFiles[`sirosiu-language-study/${file}`]=new Uint8Array(await readFile(path.join(root,'obsidian-plugin',file)));
+pluginFiles['sirosiu-language-study/main.js']=pluginBuild.outputFiles[0].contents;
+pluginFiles['sirosiu-language-study/README.md']=strToU8(await readFile(path.join(root,'docs/sync-setup.md'),'utf8'));
+await writeFile(path.join(out,'downloads/sirosiu-language-study-plugin.zip'),zipSync(pluginFiles,{level:6}));
+await mkdir(path.join(out,'Notes'),{recursive:true});
 await writeFile(path.join(out, '.nojekyll'), '');
 const manifest = JSON.parse(await readFile(path.join(out, 'data/manifest.json'), 'utf8'));
 const audio = JSON.parse(await readFile(path.join(out, 'data/audio-manifest.json'), 'utf8'));
 const packs = {};
 for (const language of manifest) {
+  const noteZip=unzipSync(await readFile(path.join(out,`downloads/${language.code}-obsidian.zip`)));
+  await writeFile(path.join(out,`Notes/${language.code}.md`),noteZip[`${language.name}/${language.name}.md`]);
   const files = [`data/${language.code}.json`, `Books/${language.name}.pdf`, ...audio.filter(a => a.path.startsWith(`Audio/${language.code}/`)).map(a => a.path)];
   const bytes = (await Promise.all(files.map(file => stat(path.join(out, file))))).reduce((sum, file) => sum + file.size, 0);
   packs[language.code] = { name: language.name, files, bytes };
@@ -51,7 +63,9 @@ for (const language of manifest) {
   links.push(`<li><h2>${escape(language.name)}</h2><a href="Books/${encodeURIComponent(language.name)}.pdf">PDF book</a> · <a href="${zip}" download>Obsidian vault with audio (${size} MB)</a> · <a href="index.html#${language.code}/start">Interactive course</a></li>`);
 }
 await writeFile(path.join(out, 'downloads.html'), documentPage('Keep a copy for yourself.', '<p>Each language has one complete Obsidian vault with its PDF and recorded audio. Unzip the download, then open the extracted folder as a vault in Obsidian.</p><p>To use the website offline, open Study tools inside the course and save a language on that device.</p><ul class="download-list">' + links.join('') + '</ul>'));
-const shell = ['index.html','app.js','progress.js','style.css','manifest.webmanifest','sources.html','downloads.html','offline-packs.json', ...(await readdir(path.join(out, 'assets'))).map(name => 'assets/' + name)];
+const setupSource=await readFile(path.join(root,'docs/sync-setup.md'),'utf8');
+await writeFile(path.join(out,'sync-setup.html'),documentPage('Connect your private study.',setupSource.split(/\n\s*\n/).map(p=>p.startsWith('## ')?`<h2>${inlineMarkdown(p.slice(3))}</h2>`:p.startsWith('# ')?'':`<p>${inlineMarkdown(p).replace(/\n/g,'<br>')}</p>`).join('\n')));
+const shell = ['index.html','app.js','cloud.js','cloud-config.json','dictionary.js','progress.js','style.css','manifest.webmanifest','sources.html','downloads.html','sync-setup.html','offline-packs.json', ...(await readdir(path.join(out, 'assets'))).map(name => 'assets/' + name)];
 const hash = createHash('sha256');
 for (const file of [...shell, ...Object.keys(packs).map(code => `data/${code}.json`)]) hash.update(await readFile(path.join(out, file)));
 // Include audio metadata so a recording refresh also changes the cache version.

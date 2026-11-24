@@ -9,7 +9,7 @@ const exists = async file => {assert((await stat(path.join(root, file))).isFile(
 const manifest = await json('data/manifest.json');
 assert.deepEqual(manifest.map(l => l.code).sort(), [...CODES].sort());
 const audio = await json('data/audio-manifest.json');
-assert.equal(audio.length, 634);
+assert.equal(audio.length, 1116);
 for (const item of audio) {assert.equal((await stat(path.join(root, item.path))).size, item.bytes);}
 const packs = await json('offline-packs.json');
 function zipEntries(buffer) {
@@ -38,6 +38,8 @@ for (const language of manifest) {
   c.rules.forEach((rule,i)=>assert.equal(rule.questionCount,c.questions.filter(q=>q.rule===i).length));
   for (const type of ['cloze','choice','edit','order','translate','explain']) assert(c.questions.some(q=>q.type===type));
   assert(c.foundation.letters.length && c.foundation.building.length && c.sections.length);
+  for(const letter of c.foundation.letters){assert(letter.audio&&letter.audioLabel);await exists(letter.audio);if(c.code==='en')await exists(letter.audioUK);}
+  await exists(`Notes/${c.code}.md`);
   const names=zipEntries(await readFile(path.join(root,`downloads/${c.code}-obsidian.zip`)));
   assert(names.some(n=>n.endsWith('Start Here.md')));assert(names.some(n=>n.endsWith(`${c.name}.md`)));
   assert(names.some(n=>n.endsWith(`${c.name}.pdf`)));
@@ -50,5 +52,6 @@ await walk(root);assert(total<1024*1024*1024,'Site exceeds GitHub Pages size lim
 const index=await readFile(path.join(root,'index.html'),'utf8');
 for(const match of index.matchAll(/(?:src|href)="([^"#]+)"/g))if(!/^https?:/.test(match[1]))await exists(decodeURI(match[1]));
 assert(!(await readFile(path.join(root,'sw.js'),'utf8')).includes('__BUILD_VERSION__'));
+await exists('cloud-config.json');await exists('downloads/sirosiu-language-study-plugin.zip');await exists('sync-setup.html');
 console.log(`Validated 15,000 questions, 15,000 words, ${audio.length} recordings, 15 PDFs and 15 complete Obsidian vaults.`);
 console.log(`Site: ${(total/1024/1024).toFixed(1)} MB; largest file: ${(largest.size/1024/1024).toFixed(1)} MB (${largest.path}).`);

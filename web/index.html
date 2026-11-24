@@ -23,15 +23,16 @@
     <div class="workspace">
       <header class="topbar"><span id="current-name">Your language</span><span class="top-actions"><button id="audio-settings" class="text-button" aria-controls="sound-settings" aria-expanded="false">Audio options</button><a id="print-guide" data-pdf target="_blank" rel="noopener">Open PDF</a><button id="study-tools-toggle" class="text-button" aria-controls="study-tools" aria-expanded="false">Study tools</button></span></header>
       <nav class="tabs" aria-label="Study sections">
-        <button data-tab="start">Start &amp; script</button><button data-tab="grammar">Grammar</button><button data-tab="practice">Practice</button><button data-tab="words">Words</button><button data-tab="reading">Read &amp; speak</button>
+        <button data-tab="start">Start &amp; script</button><button data-tab="grammar">Grammar</button><button data-tab="practice">Practice</button><button data-tab="words">Words</button><button data-tab="reading">Read &amp; speak</button><button data-tab="notebook">My notebook</button>
       </nav>
       <div id="sound-settings" hidden class="sound-settings"><label>Playback speed <select id="speech-rate"><option value="0.8">Slow</option><option value="1" selected>Normal</option></select></label><label>English model <select id="english-model"><option value="en-US">US</option><option value="en-GB">UK</option></select></label><p>Recorded tracks work after saving the language offline. Dictionary recordings need internet. Other sentence playback uses an available voice on your device.</p></div>
       <details id="study-tools" class="study-tools">
         <summary>Study tools &amp; downloads</summary>
         <div class="tools-body">
           <h2>Take your progress with you.</h2>
-          <p>Progress is saved in this browser. To continue on another device, export a backup here, transfer the file, and import it there. There is no account or automatic sync.</p>
+          <p>Sign in in My notebook to sync private written answers, notes, saved words and added questions with your other devices and Obsidian. Without signing in, question marks and course word lists stay in this browser. Export and import a backup to transfer those local marks.</p>
           <div class="button-row"><button class="secondary" data-export-progress>Export progress</button><button class="secondary" id="import-progress">Import progress</button></div>
+          <div class="button-row"><button class="secondary" id="copy-local-progress">Copy this language’s local marks to my account</button></div>
           <input type="file" id="progress-file" accept="application/json,.json" hidden>
           <h3>Keep <span id="offline-language">your language</span> on this device</h3>
           <p id="offline-status" role="status">Preparing offline study…</p>

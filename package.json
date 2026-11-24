@@ -11,10 +11,18 @@
     "build": "node scripts/build.mjs",
     "validate": "node scripts/validate.mjs",
     "start": "node scripts/serve.mjs",
-    "test": "node --test tests/progress.test.mjs && node node_modules/@playwright/test/cli.js test",
-    "test:unit": "node --test tests/progress.test.mjs"
+    "test": "npm run test:unit && node node_modules/@playwright/test/cli.js test",
+    "test:unit": "node --test tests/*.test.mjs"
   },
   "devDependencies": {
-    "@playwright/test": "1.62.1"
+    "@playwright/test": "1.62.1",
+    "obsidian": "^1.14.4"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.119.2",
+    "dompurify": "^3.5.0",
+    "esbuild-wasm": "^0.28.2",
+    "fflate": "^0.8.3",
+    "marked": "^18.3.0"
   }
 }

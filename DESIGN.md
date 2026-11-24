@@ -299,3 +299,10 @@ The hosted course preserves the paper and green reading interface and its 1000/7
 Header and footer links follow the selected language. Download and attribution index pages use the existing type, spacing and divider patterns. The web manifest icon uses a simple open-book mark in ink and paper. Form text is at least 16 px on phones to avoid focus zoom. Mandarin native text uses the same larger CJK treatment for `zh-CN` as other East Asian scripts. Focus, placeholder text, empty/error/loading/success states and keyboard skip navigation are explicitly supported.
 
 Progress is local to a browser and site path. Manual import/export is described plainly in Study tools. Offline status identifies the current device and language; recorded audio and PDFs save on demand, while streamed dictionary recordings need internet.
+
+
+## Private study additions
+
+The existing paper, serif and green interface continues across the My notebook tab, sign-in form and dictionary lookup. Personal Markdown, saved answers, added questions, dictionary words, sync status and conflicts use the existing ruled sections and folded details. A small playback action lives beside every script reference; Mandarin labels its recordings as syllable examples. English follows the selected US/UK model.
+
+Public course marks remain local while signed out. Signed-in written answers, notes, added questions and saved words use Supabase ownership rules and revision checks, with per-device offline queues. A mobile-compatible Obsidian plugin mirrors managed private sections inside the same consolidated language notes. Editors are preserved while incoming records update their surrounding lists. Conflict choices show both complete versions. Credentials stay outside the vault and only the public project URL/key ship in the site.
