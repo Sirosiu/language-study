@@ -8,6 +8,12 @@ Open [My notebook](https://sirosiu.github.io/language-study/#fr/notebook). Creat
 
 The project connection is already configured. Its publishable key is public by design. Database access is enforced by Supabase row-level security: an account can read and update only its own records. A signed-out visitor cannot read the private table.
 
+## Change or reset your password
+
+While signed in, open **My notebook → Change password**. Enter your current password and the new password twice. If Supabase requests verification, use **Send verification code**, enter the emailed code, then save. Your password is sent directly to Supabase Auth and is never saved in the course notes, backups or repository.
+
+If you cannot sign in, open **Forgot your password?** on My notebook and send a reset email. Open its link on the device where you want to reset the password. The website opens **Choose a new password** automatically. Use the new password for website and Obsidian sign-ins afterward.
+
 ## Install in your Syncthing vault
 
 Download the [Obsidian plugin ZIP](https://sirosiu.github.io/language-study/downloads/sirosiu-language-study-plugin.zip). Extract its **sirosiu-language-study** folder into your vault’s **.obsidian/plugins/** folder. It contains main.js, manifest.json and styles.css.

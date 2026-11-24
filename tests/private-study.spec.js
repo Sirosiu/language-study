@@ -20,7 +20,7 @@ async function mockAccount(page,rows={}){
       else {const row={user_id:owner.id,key:p.p_key,language:p.p_language,kind:p.p_kind,data:p.p_data,revision:(old?.revision||0)+1,deleted:p.p_deleted,origin:p.p_origin,updated_at:new Date().toISOString()};rows[p.p_key]=row;body={ok:true,item:row};}
     }else if(url.pathname.includes('/rest/v1/language_study_items'))body=Object.values(rows).sort((a,b)=>a.key.localeCompare(b.key));
     else body={};
-    await route.fulfill({status:200,contentType:'application/json',body:JSON.stringify(body)});
+    await route.fulfill({status:200,contentType:'application/json',headers:{'x-supabase-api-version':'2024-01-01'},body:JSON.stringify(body)});
   });return rows;
 }
 async function signin(page){await page.goto('./#fr/notebook');await expect(page.locator('#sign-in-form button').first()).toBeEnabled();await page.getByLabel('Email',{exact:true}).fill(owner.email);await page.getByLabel('Password',{exact:true}).fill('mocked-local-test');await page.getByRole('button',{name:'Sign in',exact:true}).click();await expect(page.locator('#private-note')).toBeVisible();}
@@ -43,6 +43,53 @@ test('full dictionary lookup renders the selected language safely and reports mi
   await expect(page.locator('#dictionary-result')).not.toContainText('Contents');await expect(page.locator('#dictionary-result')).not.toContainText('English-only meaning');await expect(page.locator('#dictionary-result')).not.toContainText('Italian-only meaning');
   await expect(page.getByRole('link',{name:'Pronunciation',exact:true})).toHaveAttribute('href','https://en.wiktionary.org/wiki/bonjour#Pronunciation');
   await page.locator('#dictionary-query').fill('missingword');await page.getByRole('button',{name:'Look up word'}).click();await expect(page.locator('#dictionary-status')).toContainText('no Wiktionary entry');
+});
+test('password changes validate confirmation, support reauthentication and keep passwords out of study storage',async({page})=>{
+  const rows=await mockAccount(page),updates=[];
+  await page.route(`https://${project}/auth/v1/user`,async route=>{
+    if(route.request().method()==='PUT'){
+      updates.push(route.request().postDataJSON());
+      if(updates.length===1)return route.fulfill({status:401,contentType:'application/json',headers:{'x-supabase-api-version':'2024-01-01','access-control-expose-headers':'x-supabase-api-version'},body:JSON.stringify({code:'reauthentication_needed',msg:'Reauthenticate before changing your password.'})});
+    }
+    return route.fulfill({contentType:'application/json',body:JSON.stringify(owner)});
+  });
+  await page.setViewportSize({width:390,height:844});await signin(page);
+  await page.locator('#account-password > summary').click();
+  const form=page.locator('#change-password-form');
+  await form.getByLabel('Current password',{exact:true}).fill('test-current-password');
+  await form.getByLabel('New password',{exact:true}).fill('test-new-password');
+  await form.getByLabel('Confirm new password',{exact:true}).fill('mismatched-password');
+  await form.getByRole('button',{name:'Save new password'}).click();
+  await expect(form.locator('#password-message')).toContainText('do not match');expect(updates).toHaveLength(0);
+  await form.getByLabel('Confirm new password',{exact:true}).fill('test-new-password');
+  await form.getByRole('button',{name:'Save new password'}).click();await expect(form.locator('#password-verification')).toBeVisible();
+  const code=page.waitForRequest(r=>r.url().includes('/auth/v1/reauthenticate'));await form.getByRole('button',{name:'Send verification code'}).click();await code;
+  await expect(form.locator('#password-message')).toContainText('Verification code sent');
+  await form.getByLabel('Verification code').fill('12345678');await form.getByRole('button',{name:'Save new password'}).click();
+  await expect(form.locator('#password-message')).toContainText('Your password is changed');
+  expect(updates[1]).toMatchObject({current_password:'test-current-password',password:'test-new-password',nonce:'12345678'});
+  await expect(form.getByLabel('New password',{exact:true})).toHaveValue('');
+  expect(JSON.stringify(rows)).not.toContain('test-new-password');
+  expect(await page.evaluate(()=>Object.values(localStorage).some(value=>value.includes('test-new-password')||value.includes('test-current-password')))).toBe(false);
+  const size=await page.evaluate(()=>({scroll:document.documentElement.scrollWidth,view:innerWidth}));expect(size.scroll).toBeLessThanOrEqual(size.view+1);
+  await form.scrollIntoViewIfNeeded();await page.screenshot({path:`test-results/password-${test.info().project.name}.png`});
+});
+test('reset emails return to the course and recovery links open the new password form',async({page})=>{
+  await mockAccount(page);await page.goto('./#fr/notebook');
+  await page.getByText('Forgot your password?',{exact:true}).click();
+  const reset=page.locator('#reset-password-form');await reset.getByLabel('Account email').fill(owner.email);
+  const recoveryRequest=page.waitForRequest(r=>r.url().includes('/auth/v1/recover'));
+  await reset.getByRole('button',{name:'Send password reset email'}).click();const request=await recoveryRequest;
+  expect(request.postDataJSON().email).toBe(owner.email);expect(new URL(request.url()).searchParams.get('redirect_to')).toBe('http://127.0.0.1:4187/language-study/');
+  await expect(reset.locator('#reset-message')).toContainText('a reset link is on its way');
+  // Arriving from Supabase's verification endpoint loads a new document.
+  await page.goto('about:blank');await page.goto(`http://127.0.0.1:4187/language-study/#access_token=${token}&refresh_token=test-refresh-token&expires_in=3600&token_type=bearer&type=recovery`);
+  const form=page.locator('#change-password-form');await expect(form).toBeVisible();await expect(page.locator('#account-password > summary')).toHaveText('Choose a new password');
+  await expect(form.getByLabel('Current password',{exact:true})).toBeHidden();await expect(page).toHaveURL(/#fr\/notebook$/);
+  await form.getByLabel('New password',{exact:true}).fill('test-recovered-password');await form.getByLabel('Confirm new password',{exact:true}).fill('test-recovered-password');
+  const update=page.waitForRequest(r=>r.url().includes('/auth/v1/user')&&r.method()==='PUT');await form.getByRole('button',{name:'Save new password'}).click();
+  const attributes=(await update).postDataJSON();expect(attributes.password).toBe('test-recovered-password');expect(attributes).not.toHaveProperty('current_password');
+  await expect(form.locator('#password-message')).toContainText('Your password is changed');await expect(form.getByLabel('Current password',{exact:true})).toBeVisible();
 });
 test('private notes, draft answers, added questions and grammar writing sync across two website devices',async({page,browser})=>{
   const rows=await mockAccount(page);await signin(page);await page.locator('#private-note').fill('# My French\n\nI am learning.');await page.getByRole('button',{name:'Sync now',exact:true}).click();

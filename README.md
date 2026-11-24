@@ -69,6 +69,8 @@ Open [http://127.0.0.1:4173/language-study/](http://127.0.0.1:4173/language-stud
 
 Sign in in **My notebook** to save written answers, private Markdown notes, added questions and dictionary words through Supabase. Use the same account in the website and the mobile-compatible Obsidian plugin. Each device keeps its own authentication session outside the Syncthing vault.
 
+**My notebook → Change password** updates your Supabase password. **Forgot your password?** sends a reset link and opens the new-password form when you return. Passwords never enter course records or vault files.
+
 The public course stays available without signing in. Private data is protected by owner-only Supabase access rules and a revision-checked save function. Offline edits queue locally; simultaneous edits keep both versions for you to resolve.
 
 See [docs/sync-setup.md](docs/sync-setup.md) for account, vault, privacy and conflict instructions. The configured project uses a **public publishable key**, not a service-role credential. Apply `supabase/migrations/202611240001_language_study.sql` once to prepare its private table and sync function.

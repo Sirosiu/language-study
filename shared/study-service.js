@@ -2,7 +2,7 @@ import { createClient } from '@supabase/supabase-js';
 import { StudyLedger } from './study-ledger.js';
 
 export class StudyService {
-  constructor(config, { storage = globalThis.localStorage, prefix = 'language-study', onChange, onStatus } = {}) {
+  constructor(config, { storage = globalThis.localStorage, prefix = 'language-study', onChange, onStatus, handleAuthRedirect = false } = {}) {
     const url = new URL(config.url);
     if (url.protocol !== 'https:' || !url.hostname.endsWith('.supabase.co')) throw new Error('Use your HTTPS Supabase project URL.');
     if (!config.key || config.key.startsWith('sb_secret_')) throw new Error('Use a publishable key, never a secret key.');
@@ -11,7 +11,7 @@ export class StudyService {
       if(payload.role!=='anon')throw new Error('Use the public anon key, never a service-role key.');
     }
     // Each app/device has an independent refresh token. Never use the Syncthing vault for this storage.
-    this.client = createClient(config.url, config.key, { auth: { storage, storageKey: `${prefix}:auth:${url.hostname}`, persistSession: true, autoRefreshToken: true, detectSessionInUrl: false } });
+    this.client = createClient(config.url, config.key, { auth: { storage, storageKey: `${prefix}:auth:${url.hostname}`, persistSession: true, autoRefreshToken: true, detectSessionInUrl: handleAuthRedirect } });
     this.ledger = new StudyLedger(this.client, { storage, prefix: `${prefix}:${url.hostname}`, onChange, onStatus });
     this.channel = null; this.timer = null; this.authSubscription = null; this.closed = false;
   }
@@ -47,6 +47,21 @@ export class StudyService {
     if (error) throw error;
     if (data.session) this.activate(data.user);
     return Boolean(data.session);
+  }
+  async resetPassword(email, redirectTo) {
+    const { error } = await this.client.auth.resetPasswordForEmail(email, { redirectTo });
+    if (error) throw error;
+  }
+  async changePassword(currentPassword, password, nonce) {
+    const attributes = { password };
+    if (currentPassword) attributes.current_password = currentPassword;
+    if (nonce) attributes.nonce = nonce;
+    const { error } = await this.client.auth.updateUser(attributes);
+    if (error) throw error;
+  }
+  async reauthenticate() {
+    const { error } = await this.client.auth.reauthenticate();
+    if (error) throw error;
   }
   async signOut() { const { error } = await this.client.auth.signOut({ scope: 'local' }); if (error) throw error; this.activate(null); }
   close() { this.closed = true; clearInterval(this.timer); this.authSubscription?.unsubscribe(); if (this.channel) this.client.removeChannel(this.channel); this.ledger.activate(null); this.client.auth.stopAutoRefresh(); }

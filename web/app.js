@@ -257,6 +257,7 @@ $('#copy-local-progress').addEventListener('click',()=>{
 window.addEventListener('hashchange',route);
 document.addEventListener('study:notice',e=>notify(e.detail));
 document.addEventListener('study:ready',()=>{if(course)render();});
+document.addEventListener('study:auth-redirect',()=>{location.hash=code+'/notebook';});
 document.addEventListener('study:change',()=>{
   if(!course)return;
   // Do not replace an editor underneath the person typing in it.
