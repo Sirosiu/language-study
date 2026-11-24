@@ -1,0 +1,14 @@
+{
+  "url": "https://object.pouta.csc.fi/OPUS-Tatoeba/v2021-07-22/moses/de-en.txt.zip",
+  "retrieved": "2026-11-24",
+  "rows": 307372,
+  "files": [
+    "README",
+    "LICENSE",
+    "Tatoeba.de-en.de",
+    "Tatoeba.de-en.en",
+    "Tatoeba.de-en.xml"
+  ],
+  "license": "Tatoeba CC BY 2.0; see retained LICENSE and README",
+  "source": "Tatoeba contributors via OPUS (Tiedemann, 2012)"
+}

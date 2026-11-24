@@ -1,0 +1,296 @@
+[
+  {
+    "code": "ar",
+    "id": "ar-V1000",
+    "old": "كو",
+    "word": "مفردات"
+  },
+  {
+    "code": "da",
+    "id": "da-V0074",
+    "old": "a",
+    "word": "udtale"
+  },
+  {
+    "code": "en",
+    "id": "en-V0300",
+    "old": "el",
+    "word": "clarify"
+  },
+  {
+    "code": "en",
+    "id": "en-V0353",
+    "old": "en",
+    "word": "evaluate"
+  },
+  {
+    "code": "fi",
+    "id": "fi-V0131",
+    "old": "oo",
+    "word": "ääntäminen"
+  },
+  {
+    "code": "fi",
+    "id": "fi-V0328",
+    "old": "ii",
+    "word": "sanasto"
+  },
+  {
+    "code": "fi",
+    "id": "fi-V0525",
+    "old": "aa",
+    "word": "kielioppi"
+  },
+  {
+    "code": "fi",
+    "id": "fi-V0734",
+    "old": "see",
+    "word": "kuunteleminen"
+  },
+  {
+    "code": "fi",
+    "id": "fi-V0938",
+    "old": "öö",
+    "word": "kirjoittaminen"
+  },
+  {
+    "code": "fi",
+    "id": "fi-V0950",
+    "old": "dee",
+    "word": "lukeminen"
+  },
+  {
+    "code": "de",
+    "id": "de-V0005",
+    "old": "Ich",
+    "word": "Wortschatz"
+  },
+  {
+    "code": "it",
+    "id": "it-V0350",
+    "old": "u",
+    "word": "vocabolario"
+  },
+  {
+    "code": "it",
+    "id": "it-V0468",
+    "old": "esse",
+    "word": "grammatica"
+  },
+  {
+    "code": "it",
+    "id": "it-V0522",
+    "old": "ca",
+    "word": "esercizio"
+  },
+  {
+    "code": "it",
+    "id": "it-V0638",
+    "old": "xi",
+    "word": "traduzione"
+  },
+  {
+    "code": "it",
+    "id": "it-V0700",
+    "old": "gamma",
+    "word": "imparare"
+  },
+  {
+    "code": "it",
+    "id": "it-V0793",
+    "old": "pi",
+    "word": "insegnare"
+  },
+  {
+    "code": "it",
+    "id": "it-V0926",
+    "old": "beta",
+    "word": "sillaba"
+  },
+  {
+    "code": "it",
+    "id": "it-V0963",
+    "old": "gi",
+    "word": "consonante"
+  },
+  {
+    "code": "zh",
+    "id": "zh-V0729",
+    "old": "boy",
+    "word": "词汇"
+  },
+  {
+    "code": "ru",
+    "id": "ru-V0001",
+    "old": "В.",
+    "word": "произношение"
+  },
+  {
+    "code": "ru",
+    "id": "ru-V0003",
+    "old": "И",
+    "word": "грамматика"
+  },
+  {
+    "code": "ru",
+    "id": "ru-V0011",
+    "old": "А",
+    "word": "упражнение"
+  },
+  {
+    "code": "ru",
+    "id": "ru-V0020",
+    "old": "К",
+    "word": "тетрадь"
+  },
+  {
+    "code": "ru",
+    "id": "ru-V0135",
+    "old": "Н-то.",
+    "word": "учебник"
+  },
+  {
+    "code": "ru",
+    "id": "ru-V0147",
+    "old": "Е",
+    "word": "понимать"
+  },
+  {
+    "code": "ru",
+    "id": "ru-V0148",
+    "old": "е",
+    "word": "повторять"
+  },
+  {
+    "code": "ru",
+    "id": "ru-V0231",
+    "old": "э",
+    "word": "улучшать"
+  },
+  {
+    "code": "ru",
+    "id": "ru-V0278",
+    "old": "ю",
+    "word": "запоминать"
+  },
+  {
+    "code": "ru",
+    "id": "ru-V0759",
+    "old": "ы",
+    "word": "согласный"
+  },
+  {
+    "code": "es",
+    "id": "es-V0005",
+    "old": "A",
+    "word": "pronunciación"
+  },
+  {
+    "code": "es",
+    "id": "es-V0043",
+    "old": "ese",
+    "word": "vocabulario"
+  },
+  {
+    "code": "es",
+    "id": "es-V0600",
+    "old": "be",
+    "word": "gramática"
+  },
+  {
+    "code": "es",
+    "id": "es-V0720",
+    "old": "pe",
+    "word": "ejercicio"
+  },
+  {
+    "code": "es",
+    "id": "es-V0796",
+    "old": "ce",
+    "word": "traducción"
+  },
+  {
+    "code": "tr",
+    "id": "tr-V0040",
+    "old": "a",
+    "word": "telaffuz"
+  },
+  {
+    "code": "tr",
+    "id": "tr-V0063",
+    "old": "e",
+    "word": "kelime"
+  },
+  {
+    "code": "tr",
+    "id": "tr-V0087",
+    "old": "ı",
+    "word": "gramer"
+  },
+  {
+    "code": "tr",
+    "id": "tr-V0132",
+    "old": "ye",
+    "word": "çeviri"
+  },
+  {
+    "code": "tr",
+    "id": "tr-V0150",
+    "old": "te",
+    "word": "alıştırma"
+  },
+  {
+    "code": "tr",
+    "id": "tr-V0151",
+    "old": "be",
+    "word": "öğrenmek"
+  },
+  {
+    "code": "tr",
+    "id": "tr-V0220",
+    "old": "u",
+    "word": "öğretmek"
+  },
+  {
+    "code": "tr",
+    "id": "tr-V0326",
+    "old": "ü",
+    "word": "dinlemek"
+  },
+  {
+    "code": "tr",
+    "id": "tr-V0412",
+    "old": "le",
+    "word": "konuşmak"
+  },
+  {
+    "code": "tr",
+    "id": "tr-V0618",
+    "old": "he",
+    "word": "okumak"
+  },
+  {
+    "code": "tr",
+    "id": "tr-V0656",
+    "old": "ge",
+    "word": "tekrarlamak"
+  },
+  {
+    "code": "tr",
+    "id": "tr-V0674",
+    "old": "se",
+    "word": "ezberlemek"
+  },
+  {
+    "code": "tr",
+    "id": "tr-V0841",
+    "old": "re",
+    "word": "geliştirmek"
+  },
+  {
+    "code": "tr",
+    "id": "tr-V0897",
+    "old": "ce",
+    "word": "hece"
+  }
+]

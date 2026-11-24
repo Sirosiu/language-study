@@ -1,0 +1,14 @@
+{
+  "url": "https://object.pouta.csc.fi/OPUS-Tatoeba/v2021-07-22/moses/cmn-en.txt.zip",
+  "retrieved": "2026-11-24",
+  "rows": 46464,
+  "files": [
+    "README",
+    "LICENSE",
+    "Tatoeba.cmn-en.cmn",
+    "Tatoeba.cmn-en.en",
+    "Tatoeba.cmn-en.xml"
+  ],
+  "license": "Tatoeba CC BY 2.0; see retained LICENSE and README",
+  "source": "Tatoeba contributors via OPUS (Tiedemann, 2012)"
+}

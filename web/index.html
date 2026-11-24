@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#183b32">
+  <meta name="description" content="Study 15 languages with connected grammar lessons, translated practice, alphabets, vocabulary, recorded audio, PDFs and Obsidian notes.">
+  <title>Language Study · Sirosiu</title>
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to the lesson</a>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="#fr/start">Language<br><em>study.</em></a>
+      <label class="mobile-label" for="language-select">Your language</label>
+      <select id="language-select" aria-label="Choose a language"></select>
+      <nav id="language-nav" aria-label="Languages"></nav>
+      <div class="sidebar-end"><p>Learn the rule.<br>Use it. Hear it again.</p><a data-obsidian download>Download Obsidian notes</a><a data-pdf target="_blank" rel="noopener">Open PDF book</a><button id="export-progress" class="text-button">Export progress</button></div>
+    </aside>
+    <div class="workspace">
+      <header class="topbar"><span id="current-name">Your language</span><span class="top-actions"><button id="audio-settings" class="text-button" aria-controls="sound-settings" aria-expanded="false">Audio options</button><a id="print-guide" data-pdf target="_blank" rel="noopener">Open PDF</a><button id="study-tools-toggle" class="text-button" aria-controls="study-tools" aria-expanded="false">Study tools</button></span></header>
+      <nav class="tabs" aria-label="Study sections">
+        <button data-tab="start">Start &amp; script</button><button data-tab="grammar">Grammar</button><button data-tab="practice">Practice</button><button data-tab="words">Words</button><button data-tab="reading">Read &amp; speak</button>
+      </nav>
+      <div id="sound-settings" hidden class="sound-settings"><label>Playback speed <select id="speech-rate"><option value="0.8">Slow</option><option value="1" selected>Normal</option></select></label><label>English model <select id="english-model"><option value="en-US">US</option><option value="en-GB">UK</option></select></label><p>Recorded tracks work after saving the language offline. Dictionary recordings need internet. Other sentence playback uses an available voice on your device.</p></div>
+      <details id="study-tools" class="study-tools">
+        <summary>Study tools &amp; downloads</summary>
+        <div class="tools-body">
+          <h2>Take your progress with you.</h2>
+          <p>Progress is saved in this browser. To continue on another device, export a backup here, transfer the file, and import it there. There is no account or automatic sync.</p>
+          <div class="button-row"><button class="secondary" data-export-progress>Export progress</button><button class="secondary" id="import-progress">Import progress</button></div>
+          <input type="file" id="progress-file" accept="application/json,.json" hidden>
+          <h3>Keep <span id="offline-language">your language</span> on this device</h3>
+          <p id="offline-status" role="status">Preparing offline study…</p>
+          <progress id="offline-progress" hidden aria-label="Offline download progress"></progress>
+          <div class="button-row"><button class="secondary" id="save-offline" disabled>Save this language offline</button><button class="secondary" id="install-site" hidden>Install website</button><button class="secondary" id="update-site" hidden>Update &amp; reload</button></div>
+          <p class="small">Use your browser’s Install or Add to Home Screen option for an app shortcut. On iPhone or iPad, open this site in Safari, then Share → Add to Home Screen. Save each language you need before going offline.</p>
+          <h3>Study on paper or in Obsidian</h3>
+          <div class="button-row"><a data-pdf target="_blank" rel="noopener">Open this language’s PDF</a><a data-obsidian download>Download this language’s Obsidian vault</a><a href="downloads.html">All downloads</a></div>
+          <p class="small">Unzip the Obsidian download and open the extracted folder as a vault. It includes one main language note, its PDF and recorded audio.</p>
+        </div>
+      </details>
+      <main id="main" tabindex="-1" aria-live="polite"><p class="loading">Opening your language…</p></main>
+      <noscript><p class="no-script">Turn on JavaScript for the interactive course, or <a href="downloads.html">download PDF books and Obsidian notes</a>.</p></noscript>
+      <footer><p>English explanations. Native writing. One place for each language.</p><div class="mobile-utilities"><a data-obsidian download>Obsidian notes</a><button class="text-button" data-export-progress>Export progress</button></div><a href="sources.html">Sources &amp; licenses</a></footer>
+    </div>
+  </div>
+  <div id="notice" role="status" aria-live="polite"></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

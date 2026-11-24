@@ -1,0 +1,27 @@
+{
+  "source": "Microsoft Edge speech synthesis via edge-tts",
+  "rate": "-15%",
+  "languageVoices": {
+    "ar": "ar-SA-ZariyahNeural",
+    "da": "da-DK-JeppeNeural",
+    "nl": "nl-NL-ColetteNeural",
+    "en": "en-US-AvaNeural",
+    "fi": "fi-FI-NooraNeural",
+    "fr": "fr-FR-VivienneMultilingualNeural",
+    "de": "de-DE-KatjaNeural",
+    "ka": "ka-GE-EkaNeural",
+    "it": "it-IT-ElsaNeural",
+    "ja": "ja-JP-NanamiNeural",
+    "ko": "ko-KR-SunHiNeural",
+    "zh": "zh-CN-XiaoxiaoNeural",
+    "ru": "ru-RU-SvetlanaNeural",
+    "es": "es-ES-ElviraNeural",
+    "tr": "tr-TR-EmelNeural"
+  },
+  "exceptions": {
+    "Audio/en/UK script and first phrases.mp3": "en-GB-SoniaNeural",
+    "Audio/ar/Egyptian examples.mp3": "ar-EG-SalmaNeural",
+    "Audio/ar/Levantine examples.mp3": "ar-LB-LaylaNeural",
+    "Audio/ar/Gulf examples.mp3": "ar-SA-ZariyahNeural"
+  }
+}

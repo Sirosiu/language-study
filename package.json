@@ -1,0 +1,20 @@
+{
+  "name": "sirosiu-language-study",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A portable language course for GitHub Pages, with audio, PDFs and Obsidian downloads.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "node --test tests/progress.test.mjs && node node_modules/@playwright/test/cli.js test",
+    "test:unit": "node --test tests/progress.test.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.62.1"
+  }
+}

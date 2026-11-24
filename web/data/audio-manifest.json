@@ -1,0 +1,4440 @@
+[
+  {
+    "path": "Audio/ar/Egyptian examples.mp3",
+    "bytes": 91440,
+    "durationSeconds": 15.24,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Gulf examples.mp3",
+    "bytes": 91152,
+    "durationSeconds": 15.192,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Levantine examples.mp3",
+    "bytes": 91152,
+    "durationSeconds": 15.192,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Reading passage.mp3",
+    "bytes": 153792,
+    "durationSeconds": 25.632,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 01.mp3",
+    "bytes": 29232,
+    "durationSeconds": 4.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 02.mp3",
+    "bytes": 23472,
+    "durationSeconds": 3.912,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 03.mp3",
+    "bytes": 15984,
+    "durationSeconds": 2.664,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 04.mp3",
+    "bytes": 65088,
+    "durationSeconds": 10.848,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 05.mp3",
+    "bytes": 16128,
+    "durationSeconds": 2.688,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 06.mp3",
+    "bytes": 23328,
+    "durationSeconds": 3.888,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 07.mp3",
+    "bytes": 20592,
+    "durationSeconds": 3.432,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 08.mp3",
+    "bytes": 19440,
+    "durationSeconds": 3.24,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 09.mp3",
+    "bytes": 19728,
+    "durationSeconds": 3.288,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 10.mp3",
+    "bytes": 19584,
+    "durationSeconds": 3.264,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 11.mp3",
+    "bytes": 24768,
+    "durationSeconds": 4.128,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 12.mp3",
+    "bytes": 26208,
+    "durationSeconds": 4.368,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 13.mp3",
+    "bytes": 22896,
+    "durationSeconds": 3.816,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 14.mp3",
+    "bytes": 29088,
+    "durationSeconds": 4.848,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 15.mp3",
+    "bytes": 24912,
+    "durationSeconds": 4.152,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 16.mp3",
+    "bytes": 31536,
+    "durationSeconds": 5.256,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 17.mp3",
+    "bytes": 22752,
+    "durationSeconds": 3.792,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 18.mp3",
+    "bytes": 17856,
+    "durationSeconds": 2.976,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 19.mp3",
+    "bytes": 16992,
+    "durationSeconds": 2.832,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Rule 20.mp3",
+    "bytes": 19584,
+    "durationSeconds": 3.264,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Script and first phrases.mp3",
+    "bytes": 210240,
+    "durationSeconds": 35.04,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0001-0050.mp3",
+    "bytes": 469584,
+    "durationSeconds": 78.264,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0051-0100.mp3",
+    "bytes": 524448,
+    "durationSeconds": 87.408,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0101-0150.mp3",
+    "bytes": 519408,
+    "durationSeconds": 86.568,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0151-0200.mp3",
+    "bytes": 533232,
+    "durationSeconds": 88.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0201-0250.mp3",
+    "bytes": 553536,
+    "durationSeconds": 92.256,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0251-0300.mp3",
+    "bytes": 544464,
+    "durationSeconds": 90.744,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0301-0350.mp3",
+    "bytes": 532224,
+    "durationSeconds": 88.704,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0351-0400.mp3",
+    "bytes": 525744,
+    "durationSeconds": 87.624,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0401-0450.mp3",
+    "bytes": 544320,
+    "durationSeconds": 90.72,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0451-0500.mp3",
+    "bytes": 534096,
+    "durationSeconds": 89.016,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0501-0550.mp3",
+    "bytes": 556704,
+    "durationSeconds": 92.784,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0551-0600.mp3",
+    "bytes": 557856,
+    "durationSeconds": 92.976,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0601-0650.mp3",
+    "bytes": 549648,
+    "durationSeconds": 91.608,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0651-0700.mp3",
+    "bytes": 562608,
+    "durationSeconds": 93.768,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0701-0750.mp3",
+    "bytes": 548640,
+    "durationSeconds": 91.44,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0751-0800.mp3",
+    "bytes": 544896,
+    "durationSeconds": 90.816,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0801-0850.mp3",
+    "bytes": 547056,
+    "durationSeconds": 91.176,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0851-0900.mp3",
+    "bytes": 551232,
+    "durationSeconds": 91.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0901-0950.mp3",
+    "bytes": 558000,
+    "durationSeconds": 93.0,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ar/Words 0951-1000.mp3",
+    "bytes": 546480,
+    "durationSeconds": 91.08,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Reading passage.mp3",
+    "bytes": 117360,
+    "durationSeconds": 19.56,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 01.mp3",
+    "bytes": 40464,
+    "durationSeconds": 6.744,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 02.mp3",
+    "bytes": 22608,
+    "durationSeconds": 3.768,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 03.mp3",
+    "bytes": 15264,
+    "durationSeconds": 2.544,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 04.mp3",
+    "bytes": 17568,
+    "durationSeconds": 2.928,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 05.mp3",
+    "bytes": 14688,
+    "durationSeconds": 2.448,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 06.mp3",
+    "bytes": 18576,
+    "durationSeconds": 3.096,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 07.mp3",
+    "bytes": 22896,
+    "durationSeconds": 3.816,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 08.mp3",
+    "bytes": 15120,
+    "durationSeconds": 2.52,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 09.mp3",
+    "bytes": 15840,
+    "durationSeconds": 2.64,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 10.mp3",
+    "bytes": 15408,
+    "durationSeconds": 2.568,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 11.mp3",
+    "bytes": 18432,
+    "durationSeconds": 3.072,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 12.mp3",
+    "bytes": 16272,
+    "durationSeconds": 2.712,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 13.mp3",
+    "bytes": 21600,
+    "durationSeconds": 3.6,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 14.mp3",
+    "bytes": 29664,
+    "durationSeconds": 4.944,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 15.mp3",
+    "bytes": 20736,
+    "durationSeconds": 3.456,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 16.mp3",
+    "bytes": 20016,
+    "durationSeconds": 3.336,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 17.mp3",
+    "bytes": 21456,
+    "durationSeconds": 3.576,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 18.mp3",
+    "bytes": 19728,
+    "durationSeconds": 3.288,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 19.mp3",
+    "bytes": 16560,
+    "durationSeconds": 2.76,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Rule 20.mp3",
+    "bytes": 17856,
+    "durationSeconds": 2.976,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Script and first phrases.mp3",
+    "bytes": 288144,
+    "durationSeconds": 48.024,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0001-0050.mp3",
+    "bytes": 475920,
+    "durationSeconds": 79.32,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0051-0100.mp3",
+    "bytes": 491616,
+    "durationSeconds": 81.936,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0101-0150.mp3",
+    "bytes": 507312,
+    "durationSeconds": 84.552,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0151-0200.mp3",
+    "bytes": 525888,
+    "durationSeconds": 87.648,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0201-0250.mp3",
+    "bytes": 541152,
+    "durationSeconds": 90.192,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0251-0300.mp3",
+    "bytes": 535680,
+    "durationSeconds": 89.28,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0301-0350.mp3",
+    "bytes": 539712,
+    "durationSeconds": 89.952,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0351-0400.mp3",
+    "bytes": 545184,
+    "durationSeconds": 90.864,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0401-0450.mp3",
+    "bytes": 262080,
+    "durationSeconds": 43.68,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0451-0500.mp3",
+    "bytes": 527472,
+    "durationSeconds": 87.912,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0501-0550.mp3",
+    "bytes": 262080,
+    "durationSeconds": 43.68,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0551-0600.mp3",
+    "bytes": 536400,
+    "durationSeconds": 89.4,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0601-0650.mp3",
+    "bytes": 542016,
+    "durationSeconds": 90.336,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0651-0700.mp3",
+    "bytes": 543312,
+    "durationSeconds": 90.552,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0701-0750.mp3",
+    "bytes": 544608,
+    "durationSeconds": 90.768,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0751-0800.mp3",
+    "bytes": 522720,
+    "durationSeconds": 87.12,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0801-0850.mp3",
+    "bytes": 547344,
+    "durationSeconds": 91.224,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0851-0900.mp3",
+    "bytes": 532800,
+    "durationSeconds": 88.8,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0901-0950.mp3",
+    "bytes": 524736,
+    "durationSeconds": 87.456,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/da/Words 0951-1000.mp3",
+    "bytes": 566640,
+    "durationSeconds": 94.44,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Reading passage.mp3",
+    "bytes": 161712,
+    "durationSeconds": 26.952,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 01.mp3",
+    "bytes": 24048,
+    "durationSeconds": 4.008,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 02.mp3",
+    "bytes": 39456,
+    "durationSeconds": 6.576,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 03.mp3",
+    "bytes": 21888,
+    "durationSeconds": 3.648,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 04.mp3",
+    "bytes": 37152,
+    "durationSeconds": 6.192,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 05.mp3",
+    "bytes": 27648,
+    "durationSeconds": 4.608,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 06.mp3",
+    "bytes": 23616,
+    "durationSeconds": 3.936,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 07.mp3",
+    "bytes": 18864,
+    "durationSeconds": 3.144,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 08.mp3",
+    "bytes": 31392,
+    "durationSeconds": 5.232,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 09.mp3",
+    "bytes": 28368,
+    "durationSeconds": 4.728,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 10.mp3",
+    "bytes": 24048,
+    "durationSeconds": 4.008,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 11.mp3",
+    "bytes": 17136,
+    "durationSeconds": 2.856,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 12.mp3",
+    "bytes": 23328,
+    "durationSeconds": 3.888,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 13.mp3",
+    "bytes": 22176,
+    "durationSeconds": 3.696,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 14.mp3",
+    "bytes": 26496,
+    "durationSeconds": 4.416,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 15.mp3",
+    "bytes": 19440,
+    "durationSeconds": 3.24,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 16.mp3",
+    "bytes": 31536,
+    "durationSeconds": 5.256,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 17.mp3",
+    "bytes": 17280,
+    "durationSeconds": 2.88,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 18.mp3",
+    "bytes": 25488,
+    "durationSeconds": 4.248,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 19.mp3",
+    "bytes": 24480,
+    "durationSeconds": 4.08,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Rule 20.mp3",
+    "bytes": 31680,
+    "durationSeconds": 5.28,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Script and first phrases.mp3",
+    "bytes": 272448,
+    "durationSeconds": 45.408,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0001-0050.mp3",
+    "bytes": 445680,
+    "durationSeconds": 74.28,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0051-0100.mp3",
+    "bytes": 470016,
+    "durationSeconds": 78.336,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0101-0150.mp3",
+    "bytes": 478224,
+    "durationSeconds": 79.704,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0151-0200.mp3",
+    "bytes": 486000,
+    "durationSeconds": 81.0,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0201-0250.mp3",
+    "bytes": 505296,
+    "durationSeconds": 84.216,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0251-0300.mp3",
+    "bytes": 507168,
+    "durationSeconds": 84.528,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0301-0350.mp3",
+    "bytes": 505584,
+    "durationSeconds": 84.264,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0351-0400.mp3",
+    "bytes": 515520,
+    "durationSeconds": 85.92,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0401-0450.mp3",
+    "bytes": 510768,
+    "durationSeconds": 85.128,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0451-0500.mp3",
+    "bytes": 512496,
+    "durationSeconds": 85.416,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0501-0550.mp3",
+    "bytes": 508464,
+    "durationSeconds": 84.744,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0551-0600.mp3",
+    "bytes": 503856,
+    "durationSeconds": 83.976,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0601-0650.mp3",
+    "bytes": 515232,
+    "durationSeconds": 85.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0651-0700.mp3",
+    "bytes": 508032,
+    "durationSeconds": 84.672,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0701-0750.mp3",
+    "bytes": 533952,
+    "durationSeconds": 88.992,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0751-0800.mp3",
+    "bytes": 506880,
+    "durationSeconds": 84.48,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0801-0850.mp3",
+    "bytes": 535248,
+    "durationSeconds": 89.208,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0851-0900.mp3",
+    "bytes": 525024,
+    "durationSeconds": 87.504,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0901-0950.mp3",
+    "bytes": 515232,
+    "durationSeconds": 85.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/de/Words 0951-1000.mp3",
+    "bytes": 540144,
+    "durationSeconds": 90.024,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Reading passage.mp3",
+    "bytes": 114768,
+    "durationSeconds": 19.128,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 01.mp3",
+    "bytes": 18576,
+    "durationSeconds": 3.096,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 02.mp3",
+    "bytes": 18576,
+    "durationSeconds": 3.096,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 03.mp3",
+    "bytes": 27936,
+    "durationSeconds": 4.656,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 04.mp3",
+    "bytes": 22752,
+    "durationSeconds": 3.792,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 05.mp3",
+    "bytes": 17280,
+    "durationSeconds": 2.88,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 06.mp3",
+    "bytes": 15984,
+    "durationSeconds": 2.664,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 07.mp3",
+    "bytes": 47664,
+    "durationSeconds": 7.944,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 08.mp3",
+    "bytes": 18432,
+    "durationSeconds": 3.072,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 09.mp3",
+    "bytes": 32112,
+    "durationSeconds": 5.352,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 10.mp3",
+    "bytes": 16704,
+    "durationSeconds": 2.784,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 11.mp3",
+    "bytes": 55584,
+    "durationSeconds": 9.264,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 12.mp3",
+    "bytes": 18576,
+    "durationSeconds": 3.096,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 13.mp3",
+    "bytes": 24336,
+    "durationSeconds": 4.056,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 14.mp3",
+    "bytes": 22464,
+    "durationSeconds": 3.744,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 15.mp3",
+    "bytes": 24912,
+    "durationSeconds": 4.152,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 16.mp3",
+    "bytes": 24624,
+    "durationSeconds": 4.104,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 17.mp3",
+    "bytes": 28224,
+    "durationSeconds": 4.704,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 18.mp3",
+    "bytes": 25488,
+    "durationSeconds": 4.248,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 19.mp3",
+    "bytes": 20448,
+    "durationSeconds": 3.408,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Rule 20.mp3",
+    "bytes": 24048,
+    "durationSeconds": 4.008,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Script and first phrases.mp3",
+    "bytes": 224496,
+    "durationSeconds": 37.416,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/UK script and first phrases.mp3",
+    "bytes": 238608,
+    "durationSeconds": 39.768,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0001-0050.mp3",
+    "bytes": 355824,
+    "durationSeconds": 59.304,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0051-0100.mp3",
+    "bytes": 354528,
+    "durationSeconds": 59.088,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0101-0150.mp3",
+    "bytes": 355824,
+    "durationSeconds": 59.304,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0151-0200.mp3",
+    "bytes": 348480,
+    "durationSeconds": 58.08,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0201-0250.mp3",
+    "bytes": 355392,
+    "durationSeconds": 59.232,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0251-0300.mp3",
+    "bytes": 365472,
+    "durationSeconds": 60.912,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0301-0350.mp3",
+    "bytes": 355824,
+    "durationSeconds": 59.304,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0351-0400.mp3",
+    "bytes": 348192,
+    "durationSeconds": 58.032,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0401-0450.mp3",
+    "bytes": 353952,
+    "durationSeconds": 58.992,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0451-0500.mp3",
+    "bytes": 361440,
+    "durationSeconds": 60.24,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0501-0550.mp3",
+    "bytes": 355392,
+    "durationSeconds": 59.232,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0551-0600.mp3",
+    "bytes": 356976,
+    "durationSeconds": 59.496,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0601-0650.mp3",
+    "bytes": 365472,
+    "durationSeconds": 60.912,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0651-0700.mp3",
+    "bytes": 358416,
+    "durationSeconds": 59.736,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0701-0750.mp3",
+    "bytes": 362016,
+    "durationSeconds": 60.336,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0751-0800.mp3",
+    "bytes": 354528,
+    "durationSeconds": 59.088,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0801-0850.mp3",
+    "bytes": 354960,
+    "durationSeconds": 59.16,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0851-0900.mp3",
+    "bytes": 364608,
+    "durationSeconds": 60.768,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0901-0950.mp3",
+    "bytes": 364176,
+    "durationSeconds": 60.696,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/en/Words 0951-1000.mp3",
+    "bytes": 370800,
+    "durationSeconds": 61.8,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Reading passage.mp3",
+    "bytes": 136944,
+    "durationSeconds": 22.824,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 01.mp3",
+    "bytes": 18720,
+    "durationSeconds": 3.12,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 02.mp3",
+    "bytes": 17712,
+    "durationSeconds": 2.952,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 03.mp3",
+    "bytes": 15840,
+    "durationSeconds": 2.64,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 04.mp3",
+    "bytes": 18432,
+    "durationSeconds": 3.072,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 05.mp3",
+    "bytes": 21456,
+    "durationSeconds": 3.576,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 06.mp3",
+    "bytes": 15984,
+    "durationSeconds": 2.664,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 07.mp3",
+    "bytes": 22752,
+    "durationSeconds": 3.792,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 08.mp3",
+    "bytes": 24624,
+    "durationSeconds": 4.104,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 09.mp3",
+    "bytes": 65232,
+    "durationSeconds": 10.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 10.mp3",
+    "bytes": 26784,
+    "durationSeconds": 4.464,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 11.mp3",
+    "bytes": 49968,
+    "durationSeconds": 8.328,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 12.mp3",
+    "bytes": 16560,
+    "durationSeconds": 2.76,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 13.mp3",
+    "bytes": 18864,
+    "durationSeconds": 3.144,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 14.mp3",
+    "bytes": 19008,
+    "durationSeconds": 3.168,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 15.mp3",
+    "bytes": 28944,
+    "durationSeconds": 4.824,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 16.mp3",
+    "bytes": 19440,
+    "durationSeconds": 3.24,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 17.mp3",
+    "bytes": 32976,
+    "durationSeconds": 5.496,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 18.mp3",
+    "bytes": 34128,
+    "durationSeconds": 5.688,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 19.mp3",
+    "bytes": 14544,
+    "durationSeconds": 2.424,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Rule 20.mp3",
+    "bytes": 14544,
+    "durationSeconds": 2.424,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Script and first phrases.mp3",
+    "bytes": 282960,
+    "durationSeconds": 47.16,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0001-0050.mp3",
+    "bytes": 524592,
+    "durationSeconds": 87.432,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0051-0100.mp3",
+    "bytes": 552096,
+    "durationSeconds": 92.016,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0101-0150.mp3",
+    "bytes": 570096,
+    "durationSeconds": 95.016,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0151-0200.mp3",
+    "bytes": 554688,
+    "durationSeconds": 92.448,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0201-0250.mp3",
+    "bytes": 569664,
+    "durationSeconds": 94.944,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0251-0300.mp3",
+    "bytes": 567648,
+    "durationSeconds": 94.608,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0301-0350.mp3",
+    "bytes": 564192,
+    "durationSeconds": 94.032,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0351-0400.mp3",
+    "bytes": 581472,
+    "durationSeconds": 96.912,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0401-0450.mp3",
+    "bytes": 577584,
+    "durationSeconds": 96.264,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0451-0500.mp3",
+    "bytes": 559728,
+    "durationSeconds": 93.288,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0501-0550.mp3",
+    "bytes": 575424,
+    "durationSeconds": 95.904,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0551-0600.mp3",
+    "bytes": 571536,
+    "durationSeconds": 95.256,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0601-0650.mp3",
+    "bytes": 564912,
+    "durationSeconds": 94.152,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0651-0700.mp3",
+    "bytes": 563328,
+    "durationSeconds": 93.888,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0701-0750.mp3",
+    "bytes": 572112,
+    "durationSeconds": 95.352,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0751-0800.mp3",
+    "bytes": 565488,
+    "durationSeconds": 94.248,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0801-0850.mp3",
+    "bytes": 564336,
+    "durationSeconds": 94.056,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0851-0900.mp3",
+    "bytes": 557424,
+    "durationSeconds": 92.904,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0901-0950.mp3",
+    "bytes": 569520,
+    "durationSeconds": 94.92,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/es/Words 0951-1000.mp3",
+    "bytes": 570240,
+    "durationSeconds": 95.04,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Reading passage.mp3",
+    "bytes": 140256,
+    "durationSeconds": 23.376,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 01.mp3",
+    "bytes": 20016,
+    "durationSeconds": 3.336,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 02.mp3",
+    "bytes": 24048,
+    "durationSeconds": 4.008,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 03.mp3",
+    "bytes": 26496,
+    "durationSeconds": 4.416,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 04.mp3",
+    "bytes": 22176,
+    "durationSeconds": 3.696,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 05.mp3",
+    "bytes": 21600,
+    "durationSeconds": 3.6,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 06.mp3",
+    "bytes": 34128,
+    "durationSeconds": 5.688,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 07.mp3",
+    "bytes": 18720,
+    "durationSeconds": 3.12,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 08.mp3",
+    "bytes": 24336,
+    "durationSeconds": 4.056,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 09.mp3",
+    "bytes": 20160,
+    "durationSeconds": 3.36,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 10.mp3",
+    "bytes": 16128,
+    "durationSeconds": 2.688,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 11.mp3",
+    "bytes": 22032,
+    "durationSeconds": 3.672,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 12.mp3",
+    "bytes": 22176,
+    "durationSeconds": 3.696,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 13.mp3",
+    "bytes": 19440,
+    "durationSeconds": 3.24,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 14.mp3",
+    "bytes": 18144,
+    "durationSeconds": 3.024,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 15.mp3",
+    "bytes": 20592,
+    "durationSeconds": 3.432,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 16.mp3",
+    "bytes": 28224,
+    "durationSeconds": 4.704,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 17.mp3",
+    "bytes": 25344,
+    "durationSeconds": 4.224,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 18.mp3",
+    "bytes": 17136,
+    "durationSeconds": 2.856,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 19.mp3",
+    "bytes": 30528,
+    "durationSeconds": 5.088,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Rule 20.mp3",
+    "bytes": 26208,
+    "durationSeconds": 4.368,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Script and first phrases.mp3",
+    "bytes": 313344,
+    "durationSeconds": 52.224,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0001-0050.mp3",
+    "bytes": 537696,
+    "durationSeconds": 89.616,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0051-0100.mp3",
+    "bytes": 554688,
+    "durationSeconds": 92.448,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0101-0150.mp3",
+    "bytes": 579312,
+    "durationSeconds": 96.552,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0151-0200.mp3",
+    "bytes": 572256,
+    "durationSeconds": 95.376,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0201-0250.mp3",
+    "bytes": 577152,
+    "durationSeconds": 96.192,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0251-0300.mp3",
+    "bytes": 576000,
+    "durationSeconds": 96.0,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0301-0350.mp3",
+    "bytes": 569088,
+    "durationSeconds": 94.848,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0351-0400.mp3",
+    "bytes": 577008,
+    "durationSeconds": 96.168,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0401-0450.mp3",
+    "bytes": 580032,
+    "durationSeconds": 96.672,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0451-0500.mp3",
+    "bytes": 566064,
+    "durationSeconds": 94.344,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0501-0550.mp3",
+    "bytes": 580896,
+    "durationSeconds": 96.816,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0551-0600.mp3",
+    "bytes": 570096,
+    "durationSeconds": 95.016,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0601-0650.mp3",
+    "bytes": 580176,
+    "durationSeconds": 96.696,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0651-0700.mp3",
+    "bytes": 567504,
+    "durationSeconds": 94.584,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0701-0750.mp3",
+    "bytes": 588672,
+    "durationSeconds": 98.112,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0751-0800.mp3",
+    "bytes": 575712,
+    "durationSeconds": 95.952,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0801-0850.mp3",
+    "bytes": 593424,
+    "durationSeconds": 98.904,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0851-0900.mp3",
+    "bytes": 586656,
+    "durationSeconds": 97.776,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0901-0950.mp3",
+    "bytes": 596160,
+    "durationSeconds": 99.36,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fi/Words 0951-1000.mp3",
+    "bytes": 589824,
+    "durationSeconds": 98.304,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Reading passage.mp3",
+    "bytes": 97920,
+    "durationSeconds": 16.32,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 01.mp3",
+    "bytes": 13824,
+    "durationSeconds": 2.304,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 02.mp3",
+    "bytes": 14544,
+    "durationSeconds": 2.424,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 03.mp3",
+    "bytes": 21600,
+    "durationSeconds": 3.6,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 04.mp3",
+    "bytes": 11232,
+    "durationSeconds": 1.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 05.mp3",
+    "bytes": 11232,
+    "durationSeconds": 1.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 06.mp3",
+    "bytes": 24480,
+    "durationSeconds": 4.08,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 07.mp3",
+    "bytes": 15696,
+    "durationSeconds": 2.616,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 08.mp3",
+    "bytes": 13536,
+    "durationSeconds": 2.256,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 09.mp3",
+    "bytes": 12528,
+    "durationSeconds": 2.088,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 10.mp3",
+    "bytes": 13824,
+    "durationSeconds": 2.304,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 11.mp3",
+    "bytes": 13248,
+    "durationSeconds": 2.208,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 12.mp3",
+    "bytes": 14400,
+    "durationSeconds": 2.4,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 13.mp3",
+    "bytes": 15264,
+    "durationSeconds": 2.544,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 14.mp3",
+    "bytes": 11232,
+    "durationSeconds": 1.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 15.mp3",
+    "bytes": 13968,
+    "durationSeconds": 2.328,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 16.mp3",
+    "bytes": 11952,
+    "durationSeconds": 1.992,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 17.mp3",
+    "bytes": 13680,
+    "durationSeconds": 2.28,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 18.mp3",
+    "bytes": 11232,
+    "durationSeconds": 1.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 19.mp3",
+    "bytes": 11232,
+    "durationSeconds": 1.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Rule 20.mp3",
+    "bytes": 14688,
+    "durationSeconds": 2.448,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Script and first phrases.mp3",
+    "bytes": 169056,
+    "durationSeconds": 28.176,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0001-0050.mp3",
+    "bytes": 270288,
+    "durationSeconds": 45.048,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0051-0100.mp3",
+    "bytes": 314496,
+    "durationSeconds": 52.416,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0101-0150.mp3",
+    "bytes": 319680,
+    "durationSeconds": 53.28,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0151-0200.mp3",
+    "bytes": 326592,
+    "durationSeconds": 54.432,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0201-0250.mp3",
+    "bytes": 337968,
+    "durationSeconds": 56.328,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0251-0300.mp3",
+    "bytes": 338400,
+    "durationSeconds": 56.4,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0301-0350.mp3",
+    "bytes": 346320,
+    "durationSeconds": 57.72,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0351-0400.mp3",
+    "bytes": 338256,
+    "durationSeconds": 56.376,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0401-0450.mp3",
+    "bytes": 333936,
+    "durationSeconds": 55.656,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0451-0500.mp3",
+    "bytes": 320400,
+    "durationSeconds": 53.4,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0501-0550.mp3",
+    "bytes": 328320,
+    "durationSeconds": 54.72,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0551-0600.mp3",
+    "bytes": 337104,
+    "durationSeconds": 56.184,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0601-0650.mp3",
+    "bytes": 341856,
+    "durationSeconds": 56.976,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0651-0700.mp3",
+    "bytes": 339984,
+    "durationSeconds": 56.664,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0701-0750.mp3",
+    "bytes": 340560,
+    "durationSeconds": 56.76,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0751-0800.mp3",
+    "bytes": 331920,
+    "durationSeconds": 55.32,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0801-0850.mp3",
+    "bytes": 336384,
+    "durationSeconds": 56.064,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0851-0900.mp3",
+    "bytes": 341424,
+    "durationSeconds": 56.904,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0901-0950.mp3",
+    "bytes": 334800,
+    "durationSeconds": 55.8,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/fr/Words 0951-1000.mp3",
+    "bytes": 341856,
+    "durationSeconds": 56.976,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Reading passage.mp3",
+    "bytes": 115632,
+    "durationSeconds": 19.272,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 01.mp3",
+    "bytes": 20016,
+    "durationSeconds": 3.336,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 02.mp3",
+    "bytes": 11520,
+    "durationSeconds": 1.92,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 03.mp3",
+    "bytes": 17712,
+    "durationSeconds": 2.952,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 04.mp3",
+    "bytes": 11232,
+    "durationSeconds": 1.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 05.mp3",
+    "bytes": 11232,
+    "durationSeconds": 1.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 06.mp3",
+    "bytes": 12240,
+    "durationSeconds": 2.04,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 07.mp3",
+    "bytes": 14832,
+    "durationSeconds": 2.472,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 08.mp3",
+    "bytes": 18864,
+    "durationSeconds": 3.144,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 09.mp3",
+    "bytes": 22320,
+    "durationSeconds": 3.72,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 10.mp3",
+    "bytes": 14400,
+    "durationSeconds": 2.4,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 11.mp3",
+    "bytes": 12960,
+    "durationSeconds": 2.16,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 12.mp3",
+    "bytes": 18000,
+    "durationSeconds": 3.0,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 13.mp3",
+    "bytes": 19152,
+    "durationSeconds": 3.192,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 14.mp3",
+    "bytes": 12672,
+    "durationSeconds": 2.112,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 15.mp3",
+    "bytes": 13968,
+    "durationSeconds": 2.328,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 16.mp3",
+    "bytes": 12960,
+    "durationSeconds": 2.16,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 17.mp3",
+    "bytes": 14256,
+    "durationSeconds": 2.376,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 18.mp3",
+    "bytes": 15408,
+    "durationSeconds": 2.568,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 19.mp3",
+    "bytes": 23184,
+    "durationSeconds": 3.864,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Rule 20.mp3",
+    "bytes": 13536,
+    "durationSeconds": 2.256,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Script and first phrases.mp3",
+    "bytes": 176400,
+    "durationSeconds": 29.4,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0001-0050.mp3",
+    "bytes": 252000,
+    "durationSeconds": 42.0,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0051-0100.mp3",
+    "bytes": 284256,
+    "durationSeconds": 47.376,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0101-0150.mp3",
+    "bytes": 309744,
+    "durationSeconds": 51.624,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0151-0200.mp3",
+    "bytes": 307584,
+    "durationSeconds": 51.264,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0201-0250.mp3",
+    "bytes": 312912,
+    "durationSeconds": 52.152,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0251-0300.mp3",
+    "bytes": 306432,
+    "durationSeconds": 51.072,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0301-0350.mp3",
+    "bytes": 313200,
+    "durationSeconds": 52.2,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0351-0400.mp3",
+    "bytes": 308880,
+    "durationSeconds": 51.48,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0401-0450.mp3",
+    "bytes": 315216,
+    "durationSeconds": 52.536,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0451-0500.mp3",
+    "bytes": 321408,
+    "durationSeconds": 53.568,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0501-0550.mp3",
+    "bytes": 328176,
+    "durationSeconds": 54.696,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0551-0600.mp3",
+    "bytes": 314496,
+    "durationSeconds": 52.416,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0601-0650.mp3",
+    "bytes": 333216,
+    "durationSeconds": 55.536,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0651-0700.mp3",
+    "bytes": 333360,
+    "durationSeconds": 55.56,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0701-0750.mp3",
+    "bytes": 320256,
+    "durationSeconds": 53.376,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0751-0800.mp3",
+    "bytes": 322128,
+    "durationSeconds": 53.688,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0801-0850.mp3",
+    "bytes": 340560,
+    "durationSeconds": 56.76,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0851-0900.mp3",
+    "bytes": 322560,
+    "durationSeconds": 53.76,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0901-0950.mp3",
+    "bytes": 315792,
+    "durationSeconds": 52.632,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/it/Words 0951-1000.mp3",
+    "bytes": 322992,
+    "durationSeconds": 53.832,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Reading passage.mp3",
+    "bytes": 168768,
+    "durationSeconds": 28.128,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 01.mp3",
+    "bytes": 20304,
+    "durationSeconds": 3.384,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 02.mp3",
+    "bytes": 24480,
+    "durationSeconds": 4.08,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 03.mp3",
+    "bytes": 24768,
+    "durationSeconds": 4.128,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 04.mp3",
+    "bytes": 15696,
+    "durationSeconds": 2.616,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 05.mp3",
+    "bytes": 25200,
+    "durationSeconds": 4.2,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 06.mp3",
+    "bytes": 20304,
+    "durationSeconds": 3.384,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 07.mp3",
+    "bytes": 22320,
+    "durationSeconds": 3.72,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 08.mp3",
+    "bytes": 19440,
+    "durationSeconds": 3.24,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 09.mp3",
+    "bytes": 28656,
+    "durationSeconds": 4.776,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 10.mp3",
+    "bytes": 41040,
+    "durationSeconds": 6.84,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 11.mp3",
+    "bytes": 30384,
+    "durationSeconds": 5.064,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 12.mp3",
+    "bytes": 26352,
+    "durationSeconds": 4.392,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 13.mp3",
+    "bytes": 31968,
+    "durationSeconds": 5.328,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 14.mp3",
+    "bytes": 15696,
+    "durationSeconds": 2.616,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 15.mp3",
+    "bytes": 19296,
+    "durationSeconds": 3.216,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 16.mp3",
+    "bytes": 30240,
+    "durationSeconds": 5.04,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 17.mp3",
+    "bytes": 27216,
+    "durationSeconds": 4.536,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 18.mp3",
+    "bytes": 28512,
+    "durationSeconds": 4.752,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 19.mp3",
+    "bytes": 15120,
+    "durationSeconds": 2.52,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Rule 20.mp3",
+    "bytes": 22032,
+    "durationSeconds": 3.672,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Script and first phrases.mp3",
+    "bytes": 206352,
+    "durationSeconds": 34.392,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0001-0050.mp3",
+    "bytes": 429552,
+    "durationSeconds": 71.592,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0051-0100.mp3",
+    "bytes": 442512,
+    "durationSeconds": 73.752,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0101-0150.mp3",
+    "bytes": 456048,
+    "durationSeconds": 76.008,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0151-0200.mp3",
+    "bytes": 455616,
+    "durationSeconds": 75.936,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0201-0250.mp3",
+    "bytes": 464112,
+    "durationSeconds": 77.352,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0251-0300.mp3",
+    "bytes": 459792,
+    "durationSeconds": 76.632,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0301-0350.mp3",
+    "bytes": 464832,
+    "durationSeconds": 77.472,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0351-0400.mp3",
+    "bytes": 463248,
+    "durationSeconds": 77.208,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0401-0450.mp3",
+    "bytes": 456048,
+    "durationSeconds": 76.008,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0451-0500.mp3",
+    "bytes": 472464,
+    "durationSeconds": 78.744,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0501-0550.mp3",
+    "bytes": 470736,
+    "durationSeconds": 78.456,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0551-0600.mp3",
+    "bytes": 473904,
+    "durationSeconds": 78.984,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0601-0650.mp3",
+    "bytes": 476784,
+    "durationSeconds": 79.464,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0651-0700.mp3",
+    "bytes": 460224,
+    "durationSeconds": 76.704,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0701-0750.mp3",
+    "bytes": 454464,
+    "durationSeconds": 75.744,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0751-0800.mp3",
+    "bytes": 454320,
+    "durationSeconds": 75.72,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0801-0850.mp3",
+    "bytes": 459072,
+    "durationSeconds": 76.512,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0851-0900.mp3",
+    "bytes": 461952,
+    "durationSeconds": 76.992,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0901-0950.mp3",
+    "bytes": 464112,
+    "durationSeconds": 77.352,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ja/Words 0951-1000.mp3",
+    "bytes": 472896,
+    "durationSeconds": 78.816,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Reading passage.mp3",
+    "bytes": 131184,
+    "durationSeconds": 21.864,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 01.mp3",
+    "bytes": 18864,
+    "durationSeconds": 3.144,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 02.mp3",
+    "bytes": 18432,
+    "durationSeconds": 3.072,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 03.mp3",
+    "bytes": 19008,
+    "durationSeconds": 3.168,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 04.mp3",
+    "bytes": 22752,
+    "durationSeconds": 3.792,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 05.mp3",
+    "bytes": 20016,
+    "durationSeconds": 3.336,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 06.mp3",
+    "bytes": 30384,
+    "durationSeconds": 5.064,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 07.mp3",
+    "bytes": 15264,
+    "durationSeconds": 2.544,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 08.mp3",
+    "bytes": 18144,
+    "durationSeconds": 3.024,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 09.mp3",
+    "bytes": 25776,
+    "durationSeconds": 4.296,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 10.mp3",
+    "bytes": 14976,
+    "durationSeconds": 2.496,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 11.mp3",
+    "bytes": 21312,
+    "durationSeconds": 3.552,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 12.mp3",
+    "bytes": 16416,
+    "durationSeconds": 2.736,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 13.mp3",
+    "bytes": 17568,
+    "durationSeconds": 2.928,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 14.mp3",
+    "bytes": 21888,
+    "durationSeconds": 3.648,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 15.mp3",
+    "bytes": 20160,
+    "durationSeconds": 3.36,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 16.mp3",
+    "bytes": 18144,
+    "durationSeconds": 3.024,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 17.mp3",
+    "bytes": 17424,
+    "durationSeconds": 2.904,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 18.mp3",
+    "bytes": 17136,
+    "durationSeconds": 2.856,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 19.mp3",
+    "bytes": 24480,
+    "durationSeconds": 4.08,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Rule 20.mp3",
+    "bytes": 19728,
+    "durationSeconds": 3.288,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Script and first phrases.mp3",
+    "bytes": 95184,
+    "durationSeconds": 15.864,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0001-0050.mp3",
+    "bytes": 528480,
+    "durationSeconds": 88.08,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0051-0100.mp3",
+    "bytes": 545472,
+    "durationSeconds": 90.912,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0101-0150.mp3",
+    "bytes": 542736,
+    "durationSeconds": 90.456,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0151-0200.mp3",
+    "bytes": 525888,
+    "durationSeconds": 87.648,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0201-0250.mp3",
+    "bytes": 554400,
+    "durationSeconds": 92.4,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0251-0300.mp3",
+    "bytes": 543024,
+    "durationSeconds": 90.504,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0301-0350.mp3",
+    "bytes": 563040,
+    "durationSeconds": 93.84,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0351-0400.mp3",
+    "bytes": 546192,
+    "durationSeconds": 91.032,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0401-0450.mp3",
+    "bytes": 527616,
+    "durationSeconds": 87.936,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0451-0500.mp3",
+    "bytes": 562176,
+    "durationSeconds": 93.696,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0501-0550.mp3",
+    "bytes": 550224,
+    "durationSeconds": 91.704,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0551-0600.mp3",
+    "bytes": 548064,
+    "durationSeconds": 91.344,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0601-0650.mp3",
+    "bytes": 556992,
+    "durationSeconds": 92.832,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0651-0700.mp3",
+    "bytes": 543024,
+    "durationSeconds": 90.504,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0701-0750.mp3",
+    "bytes": 564336,
+    "durationSeconds": 94.056,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0751-0800.mp3",
+    "bytes": 544464,
+    "durationSeconds": 90.744,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0801-0850.mp3",
+    "bytes": 538992,
+    "durationSeconds": 89.832,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0851-0900.mp3",
+    "bytes": 542304,
+    "durationSeconds": 90.384,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0901-0950.mp3",
+    "bytes": 551952,
+    "durationSeconds": 91.992,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ka/Words 0951-1000.mp3",
+    "bytes": 538704,
+    "durationSeconds": 89.784,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Reading passage.mp3",
+    "bytes": 138384,
+    "durationSeconds": 23.064,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 01.mp3",
+    "bytes": 14544,
+    "durationSeconds": 2.424,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 02.mp3",
+    "bytes": 21600,
+    "durationSeconds": 3.6,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 03.mp3",
+    "bytes": 38160,
+    "durationSeconds": 6.36,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 04.mp3",
+    "bytes": 21600,
+    "durationSeconds": 3.6,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 05.mp3",
+    "bytes": 26784,
+    "durationSeconds": 4.464,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 06.mp3",
+    "bytes": 59184,
+    "durationSeconds": 9.864,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 07.mp3",
+    "bytes": 19872,
+    "durationSeconds": 3.312,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 08.mp3",
+    "bytes": 21456,
+    "durationSeconds": 3.576,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 09.mp3",
+    "bytes": 36144,
+    "durationSeconds": 6.024,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 10.mp3",
+    "bytes": 29232,
+    "durationSeconds": 4.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 11.mp3",
+    "bytes": 42048,
+    "durationSeconds": 7.008,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 12.mp3",
+    "bytes": 22176,
+    "durationSeconds": 3.696,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 13.mp3",
+    "bytes": 20592,
+    "durationSeconds": 3.432,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 14.mp3",
+    "bytes": 23616,
+    "durationSeconds": 3.936,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 15.mp3",
+    "bytes": 25776,
+    "durationSeconds": 4.296,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 16.mp3",
+    "bytes": 23616,
+    "durationSeconds": 3.936,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 17.mp3",
+    "bytes": 26352,
+    "durationSeconds": 4.392,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 18.mp3",
+    "bytes": 16416,
+    "durationSeconds": 2.736,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 19.mp3",
+    "bytes": 16560,
+    "durationSeconds": 2.76,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Rule 20.mp3",
+    "bytes": 16704,
+    "durationSeconds": 2.784,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Script and first phrases.mp3",
+    "bytes": 95184,
+    "durationSeconds": 15.864,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0001-0050.mp3",
+    "bytes": 412560,
+    "durationSeconds": 68.76,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0051-0100.mp3",
+    "bytes": 436896,
+    "durationSeconds": 72.816,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0101-0150.mp3",
+    "bytes": 441792,
+    "durationSeconds": 73.632,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0151-0200.mp3",
+    "bytes": 443952,
+    "durationSeconds": 73.992,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0201-0250.mp3",
+    "bytes": 449568,
+    "durationSeconds": 74.928,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0251-0300.mp3",
+    "bytes": 455040,
+    "durationSeconds": 75.84,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0301-0350.mp3",
+    "bytes": 450144,
+    "durationSeconds": 75.024,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0351-0400.mp3",
+    "bytes": 460944,
+    "durationSeconds": 76.824,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0401-0450.mp3",
+    "bytes": 453024,
+    "durationSeconds": 75.504,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0451-0500.mp3",
+    "bytes": 461232,
+    "durationSeconds": 76.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0501-0550.mp3",
+    "bytes": 459504,
+    "durationSeconds": 76.584,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0551-0600.mp3",
+    "bytes": 457920,
+    "durationSeconds": 76.32,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0601-0650.mp3",
+    "bytes": 465264,
+    "durationSeconds": 77.544,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0651-0700.mp3",
+    "bytes": 469152,
+    "durationSeconds": 78.192,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0701-0750.mp3",
+    "bytes": 458640,
+    "durationSeconds": 76.44,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0751-0800.mp3",
+    "bytes": 472176,
+    "durationSeconds": 78.696,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0801-0850.mp3",
+    "bytes": 461520,
+    "durationSeconds": 76.92,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0851-0900.mp3",
+    "bytes": 464688,
+    "durationSeconds": 77.448,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0901-0950.mp3",
+    "bytes": 465408,
+    "durationSeconds": 77.568,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ko/Words 0951-1000.mp3",
+    "bytes": 467568,
+    "durationSeconds": 77.928,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Reading passage.mp3",
+    "bytes": 151200,
+    "durationSeconds": 25.2,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 01.mp3",
+    "bytes": 26928,
+    "durationSeconds": 4.488,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 02.mp3",
+    "bytes": 18000,
+    "durationSeconds": 3.0,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 03.mp3",
+    "bytes": 17712,
+    "durationSeconds": 2.952,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 04.mp3",
+    "bytes": 26064,
+    "durationSeconds": 4.344,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 05.mp3",
+    "bytes": 20016,
+    "durationSeconds": 3.336,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 06.mp3",
+    "bytes": 31680,
+    "durationSeconds": 5.28,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 07.mp3",
+    "bytes": 24768,
+    "durationSeconds": 4.128,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 08.mp3",
+    "bytes": 16704,
+    "durationSeconds": 2.784,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 09.mp3",
+    "bytes": 23184,
+    "durationSeconds": 3.864,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 10.mp3",
+    "bytes": 18864,
+    "durationSeconds": 3.144,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 11.mp3",
+    "bytes": 24912,
+    "durationSeconds": 4.152,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 12.mp3",
+    "bytes": 31968,
+    "durationSeconds": 5.328,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 13.mp3",
+    "bytes": 47232,
+    "durationSeconds": 7.872,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 14.mp3",
+    "bytes": 20880,
+    "durationSeconds": 3.48,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 15.mp3",
+    "bytes": 20880,
+    "durationSeconds": 3.48,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 16.mp3",
+    "bytes": 24336,
+    "durationSeconds": 4.056,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 17.mp3",
+    "bytes": 21744,
+    "durationSeconds": 3.624,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 18.mp3",
+    "bytes": 15840,
+    "durationSeconds": 2.64,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 19.mp3",
+    "bytes": 32112,
+    "durationSeconds": 5.352,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Rule 20.mp3",
+    "bytes": 16848,
+    "durationSeconds": 2.808,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Script and first phrases.mp3",
+    "bytes": 296784,
+    "durationSeconds": 49.464,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0001-0050.mp3",
+    "bytes": 512640,
+    "durationSeconds": 85.44,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0051-0100.mp3",
+    "bytes": 548640,
+    "durationSeconds": 91.44,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0101-0150.mp3",
+    "bytes": 567648,
+    "durationSeconds": 94.608,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0151-0200.mp3",
+    "bytes": 572544,
+    "durationSeconds": 95.424,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0201-0250.mp3",
+    "bytes": 569088,
+    "durationSeconds": 94.848,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0251-0300.mp3",
+    "bytes": 572112,
+    "durationSeconds": 95.352,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0301-0350.mp3",
+    "bytes": 569376,
+    "durationSeconds": 94.896,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0351-0400.mp3",
+    "bytes": 563760,
+    "durationSeconds": 93.96,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0401-0450.mp3",
+    "bytes": 565056,
+    "durationSeconds": 94.176,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0451-0500.mp3",
+    "bytes": 556704,
+    "durationSeconds": 92.784,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0501-0550.mp3",
+    "bytes": 577584,
+    "durationSeconds": 96.264,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0551-0600.mp3",
+    "bytes": 585504,
+    "durationSeconds": 97.584,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0601-0650.mp3",
+    "bytes": 575424,
+    "durationSeconds": 95.904,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0651-0700.mp3",
+    "bytes": 573120,
+    "durationSeconds": 95.52,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0701-0750.mp3",
+    "bytes": 579024,
+    "durationSeconds": 96.504,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0751-0800.mp3",
+    "bytes": 572688,
+    "durationSeconds": 95.448,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0801-0850.mp3",
+    "bytes": 579888,
+    "durationSeconds": 96.648,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0851-0900.mp3",
+    "bytes": 560160,
+    "durationSeconds": 93.36,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0901-0950.mp3",
+    "bytes": 571104,
+    "durationSeconds": 95.184,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/nl/Words 0951-1000.mp3",
+    "bytes": 581616,
+    "durationSeconds": 96.936,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Reading passage.mp3",
+    "bytes": 137520,
+    "durationSeconds": 22.92,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 01.mp3",
+    "bytes": 25632,
+    "durationSeconds": 4.272,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 02.mp3",
+    "bytes": 24336,
+    "durationSeconds": 4.056,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 03.mp3",
+    "bytes": 25920,
+    "durationSeconds": 4.32,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 04.mp3",
+    "bytes": 19440,
+    "durationSeconds": 3.24,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 05.mp3",
+    "bytes": 17856,
+    "durationSeconds": 2.976,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 06.mp3",
+    "bytes": 24048,
+    "durationSeconds": 4.008,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 07.mp3",
+    "bytes": 19008,
+    "durationSeconds": 3.168,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 08.mp3",
+    "bytes": 24336,
+    "durationSeconds": 4.056,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 09.mp3",
+    "bytes": 21888,
+    "durationSeconds": 3.648,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 10.mp3",
+    "bytes": 18432,
+    "durationSeconds": 3.072,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 11.mp3",
+    "bytes": 21168,
+    "durationSeconds": 3.528,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 12.mp3",
+    "bytes": 20448,
+    "durationSeconds": 3.408,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 13.mp3",
+    "bytes": 18432,
+    "durationSeconds": 3.072,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 14.mp3",
+    "bytes": 20880,
+    "durationSeconds": 3.48,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 15.mp3",
+    "bytes": 26928,
+    "durationSeconds": 4.488,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 16.mp3",
+    "bytes": 29808,
+    "durationSeconds": 4.968,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 17.mp3",
+    "bytes": 17424,
+    "durationSeconds": 2.904,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 18.mp3",
+    "bytes": 31248,
+    "durationSeconds": 5.208,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 19.mp3",
+    "bytes": 28368,
+    "durationSeconds": 4.728,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Rule 20.mp3",
+    "bytes": 25776,
+    "durationSeconds": 4.296,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Script and first phrases.mp3",
+    "bytes": 336240,
+    "durationSeconds": 56.04,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0001-0050.mp3",
+    "bytes": 517392,
+    "durationSeconds": 86.232,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0051-0100.mp3",
+    "bytes": 555696,
+    "durationSeconds": 92.616,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0101-0150.mp3",
+    "bytes": 566640,
+    "durationSeconds": 94.44,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0151-0200.mp3",
+    "bytes": 582768,
+    "durationSeconds": 97.128,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0201-0250.mp3",
+    "bytes": 608976,
+    "durationSeconds": 101.496,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0251-0300.mp3",
+    "bytes": 602352,
+    "durationSeconds": 100.392,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0301-0350.mp3",
+    "bytes": 600768,
+    "durationSeconds": 100.128,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0351-0400.mp3",
+    "bytes": 606960,
+    "durationSeconds": 101.16,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0401-0450.mp3",
+    "bytes": 596304,
+    "durationSeconds": 99.384,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0451-0500.mp3",
+    "bytes": 605808,
+    "durationSeconds": 100.968,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0501-0550.mp3",
+    "bytes": 598032,
+    "durationSeconds": 99.672,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0551-0600.mp3",
+    "bytes": 604512,
+    "durationSeconds": 100.752,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0601-0650.mp3",
+    "bytes": 596880,
+    "durationSeconds": 99.48,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0651-0700.mp3",
+    "bytes": 269280,
+    "durationSeconds": 44.88,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0701-0750.mp3",
+    "bytes": 620928,
+    "durationSeconds": 103.488,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0751-0800.mp3",
+    "bytes": 604512,
+    "durationSeconds": 100.752,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0801-0850.mp3",
+    "bytes": 617616,
+    "durationSeconds": 102.936,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0851-0900.mp3",
+    "bytes": 623808,
+    "durationSeconds": 103.968,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0901-0950.mp3",
+    "bytes": 627552,
+    "durationSeconds": 104.592,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/ru/Words 0951-1000.mp3",
+    "bytes": 626112,
+    "durationSeconds": 104.352,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Reading passage.mp3",
+    "bytes": 140256,
+    "durationSeconds": 23.376,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 01.mp3",
+    "bytes": 15264,
+    "durationSeconds": 2.544,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 02.mp3",
+    "bytes": 53712,
+    "durationSeconds": 8.952,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 03.mp3",
+    "bytes": 24336,
+    "durationSeconds": 4.056,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 04.mp3",
+    "bytes": 21600,
+    "durationSeconds": 3.6,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 05.mp3",
+    "bytes": 19440,
+    "durationSeconds": 3.24,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 06.mp3",
+    "bytes": 23184,
+    "durationSeconds": 3.864,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 07.mp3",
+    "bytes": 20736,
+    "durationSeconds": 3.456,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 08.mp3",
+    "bytes": 27648,
+    "durationSeconds": 4.608,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 09.mp3",
+    "bytes": 19584,
+    "durationSeconds": 3.264,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 10.mp3",
+    "bytes": 20304,
+    "durationSeconds": 3.384,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 11.mp3",
+    "bytes": 22752,
+    "durationSeconds": 3.792,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 12.mp3",
+    "bytes": 20880,
+    "durationSeconds": 3.48,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 13.mp3",
+    "bytes": 18000,
+    "durationSeconds": 3.0,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 14.mp3",
+    "bytes": 19728,
+    "durationSeconds": 3.288,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 15.mp3",
+    "bytes": 21744,
+    "durationSeconds": 3.624,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 16.mp3",
+    "bytes": 24768,
+    "durationSeconds": 4.128,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 17.mp3",
+    "bytes": 26496,
+    "durationSeconds": 4.416,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 18.mp3",
+    "bytes": 30528,
+    "durationSeconds": 5.088,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 19.mp3",
+    "bytes": 23616,
+    "durationSeconds": 3.936,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Rule 20.mp3",
+    "bytes": 17424,
+    "durationSeconds": 2.904,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Script and first phrases.mp3",
+    "bytes": 269856,
+    "durationSeconds": 44.976,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0001-0050.mp3",
+    "bytes": 546336,
+    "durationSeconds": 91.056,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0051-0100.mp3",
+    "bytes": 563616,
+    "durationSeconds": 93.936,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0101-0150.mp3",
+    "bytes": 580032,
+    "durationSeconds": 96.672,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0151-0200.mp3",
+    "bytes": 589968,
+    "durationSeconds": 98.328,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0201-0250.mp3",
+    "bytes": 581616,
+    "durationSeconds": 96.936,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0251-0300.mp3",
+    "bytes": 585936,
+    "durationSeconds": 97.656,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0301-0350.mp3",
+    "bytes": 582048,
+    "durationSeconds": 97.008,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0351-0400.mp3",
+    "bytes": 600768,
+    "durationSeconds": 100.128,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0401-0450.mp3",
+    "bytes": 584208,
+    "durationSeconds": 97.368,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0451-0500.mp3",
+    "bytes": 595872,
+    "durationSeconds": 99.312,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0501-0550.mp3",
+    "bytes": 583632,
+    "durationSeconds": 97.272,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0551-0600.mp3",
+    "bytes": 590688,
+    "durationSeconds": 98.448,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0601-0650.mp3",
+    "bytes": 581040,
+    "durationSeconds": 96.84,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0651-0700.mp3",
+    "bytes": 601488,
+    "durationSeconds": 100.248,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0701-0750.mp3",
+    "bytes": 588816,
+    "durationSeconds": 98.136,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0751-0800.mp3",
+    "bytes": 590544,
+    "durationSeconds": 98.424,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0801-0850.mp3",
+    "bytes": 588816,
+    "durationSeconds": 98.136,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0851-0900.mp3",
+    "bytes": 583776,
+    "durationSeconds": 97.296,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0901-0950.mp3",
+    "bytes": 590400,
+    "durationSeconds": 98.4,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/tr/Words 0951-1000.mp3",
+    "bytes": 601776,
+    "durationSeconds": 100.296,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Reading passage.mp3",
+    "bytes": 133200,
+    "durationSeconds": 22.2,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 01.mp3",
+    "bytes": 14976,
+    "durationSeconds": 2.496,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 02.mp3",
+    "bytes": 22464,
+    "durationSeconds": 3.744,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 03.mp3",
+    "bytes": 16128,
+    "durationSeconds": 2.688,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 04.mp3",
+    "bytes": 33264,
+    "durationSeconds": 5.544,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 05.mp3",
+    "bytes": 20448,
+    "durationSeconds": 3.408,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 06.mp3",
+    "bytes": 25632,
+    "durationSeconds": 4.272,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 07.mp3",
+    "bytes": 15552,
+    "durationSeconds": 2.592,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 08.mp3",
+    "bytes": 29376,
+    "durationSeconds": 4.896,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 09.mp3",
+    "bytes": 16992,
+    "durationSeconds": 2.832,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 10.mp3",
+    "bytes": 19296,
+    "durationSeconds": 3.216,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 11.mp3",
+    "bytes": 17280,
+    "durationSeconds": 2.88,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 12.mp3",
+    "bytes": 19728,
+    "durationSeconds": 3.288,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 13.mp3",
+    "bytes": 21456,
+    "durationSeconds": 3.576,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 14.mp3",
+    "bytes": 15408,
+    "durationSeconds": 2.568,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 15.mp3",
+    "bytes": 26352,
+    "durationSeconds": 4.392,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 16.mp3",
+    "bytes": 18144,
+    "durationSeconds": 3.024,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 17.mp3",
+    "bytes": 14544,
+    "durationSeconds": 2.424,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 18.mp3",
+    "bytes": 29520,
+    "durationSeconds": 4.92,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 19.mp3",
+    "bytes": 14976,
+    "durationSeconds": 2.496,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Rule 20.mp3",
+    "bytes": 24048,
+    "durationSeconds": 4.008,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Script and first phrases.mp3",
+    "bytes": 121104,
+    "durationSeconds": 20.184,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0001-0050.mp3",
+    "bytes": 408384,
+    "durationSeconds": 68.064,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0051-0100.mp3",
+    "bytes": 404496,
+    "durationSeconds": 67.416,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0101-0150.mp3",
+    "bytes": 407952,
+    "durationSeconds": 67.992,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0151-0200.mp3",
+    "bytes": 397008,
+    "durationSeconds": 66.168,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0201-0250.mp3",
+    "bytes": 412704,
+    "durationSeconds": 68.784,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0251-0300.mp3",
+    "bytes": 405072,
+    "durationSeconds": 67.512,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0301-0350.mp3",
+    "bytes": 404640,
+    "durationSeconds": 67.44,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0351-0400.mp3",
+    "bytes": 407952,
+    "durationSeconds": 67.992,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0401-0450.mp3",
+    "bytes": 412704,
+    "durationSeconds": 68.784,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0451-0500.mp3",
+    "bytes": 416304,
+    "durationSeconds": 69.384,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0501-0550.mp3",
+    "bytes": 408528,
+    "durationSeconds": 68.088,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0551-0600.mp3",
+    "bytes": 417456,
+    "durationSeconds": 69.576,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0601-0650.mp3",
+    "bytes": 410976,
+    "durationSeconds": 68.496,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0651-0700.mp3",
+    "bytes": 412560,
+    "durationSeconds": 68.76,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0701-0750.mp3",
+    "bytes": 413136,
+    "durationSeconds": 68.856,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0751-0800.mp3",
+    "bytes": 413136,
+    "durationSeconds": 68.856,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0801-0850.mp3",
+    "bytes": 410544,
+    "durationSeconds": 68.424,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0851-0900.mp3",
+    "bytes": 412128,
+    "durationSeconds": 68.688,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0901-0950.mp3",
+    "bytes": 408672,
+    "durationSeconds": 68.112,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  },
+  {
+    "path": "Audio/zh/Words 0951-1000.mp3",
+    "bytes": 408672,
+    "durationSeconds": 68.112,
+    "synthetic": true,
+    "source": "Microsoft Edge speech synthesis via edge-tts"
+  }
+]
