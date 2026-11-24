@@ -8,6 +8,10 @@ Included: **15,000 practice questions, 15,000 vocabulary entries, 634 recorded M
 
 ## Publish on GitHub Pages
 
+Live course: [sirosiu.github.io/language-study](https://sirosiu.github.io/language-study/).
+
+The `.github/workflows/pages.yml` workflow builds `dist/` and publishes its website files. Keep this hidden `.github` folder when copying the repository, and select **GitHub Actions** as the Pages source.
+
 1. On GitHub, create an **empty repository**, for example `language-study`. Do not add a README, license or `.gitignore`; those are already here. A public repository supports free GitHub Pages. Private Pages availability depends on your GitHub plan.
 2. Open a terminal in this repository folder. Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` below with your actual GitHub names:
 
